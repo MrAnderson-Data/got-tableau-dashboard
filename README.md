@@ -34,14 +34,15 @@ This Tableau dashboard analyzes *Game of Thrones* deaths by character, location,
 
 got-tableau-dashboard/
 ├── data/
-│ └── got-deaths.csv — core dataset of characters, deaths, houses, and methods
+│   └── got-deaths.csv          # Core dataset of characters, deaths, houses, and methods
 ├── images/
-│ ├── characters — custom headshots of victims
-│ ├── houses — family shields and banners
-│ └── methods — symbolic icons for methods of death
+│   ├── characters/             # Custom headshots of victims
+│   ├── houses/                 # Family shields and banners
+│   └── methods/                # Symbolic icons for methods of death
 ├── tableau/
-│ └── got-dashboard.twbx — Tableau packaged workbook
+│   └── got-dashboard.twbx      # Tableau packaged workbook
 └── README.md
+
 
 ---
 
