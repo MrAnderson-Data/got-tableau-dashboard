@@ -40,7 +40,7 @@ got-tableau-dashboard/
 ├── images/
 │   ├── characters/             # Custom portraits of victims
 │   ├── houses/                 # Family shields and banners
-│   ├── locations/                 # location banners
+│   ├── locations/              # location banners
 │   └── methods/                # Symbolic icons for methods of death
 ├── tableau/
 │   └── got-dashboard.twbx      # Tableau packaged workbook
