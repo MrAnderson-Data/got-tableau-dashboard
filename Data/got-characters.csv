@@ -1,0 +1,650 @@
+Character_ID,Character_Name,Species,House,Parents,Siblings,Spouse,Children,Status,Weapon of Choice,Place of Death,Notable Kills,Lore,ImageURL,House_URL
+CH001,Accident,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,"A nameless soul, perhaps a victim of misfortune or circumstance, whose tale remains untold amidst the chronicles of Westeros.",,
+CH002,Aemon Targaryen,Human,Night's Watch,King Maekar I Targaryen and Dyanna Dayne,King Aegon V Targaryen,None (took a vow of celibacy as a Maester),None,Dead,Not Available,Castle Black,Not Available,"Born Aemon of House Targaryen, he cast off crown and claim to don the black of the Night’s Watch. A scholar, a healer, and a dragon in exile, Maester Aemon served at Castle Black until his bones bent with age and his eyes faded to blindness.
+He counseled kings and crows alike, his words laced with wisdom born of sorrow. In fire and blood, he saw prophecy—visions of his kin's fall, and of the prince that was promised.
+When the cold wind howled beyond the Wall, he remained a beacon in the dark, whispering truths forgotten even by fire itself. He died far from home, a dragon who chose duty over power, and whose watch ended only in death.",,
+CH003,Alliser Thorne,Human,House Thorne,Not Available,Not Available,Not Available,None,Dead,Not Available,Castle Black,Not Available,"Hard as the frost of the Wall and bitter as the wind atop it, Ser Alliser Thorne bled black long before he donned the cloak. Once a knight of King’s Landing, he was cast to the Wall for backing the losing side of Robert’s Rebellion.
+He served as master-at-arms at Castle Black, where he forged young boys into hardened men with cruelty sharp as iron. His hatred for Jon Snow burned like a dying ember—dim but persistent.
+When the Lord Commander broke oaths and welcomed wildlings, it was Thorne who called him traitor and led the blade. Yet the realm he claimed to protect crumbled under the very darkness Jon sought to stop. Thorne died by the rope—bitter, defiant, and unrepentant.",,
+CH004,Alton Lannister,Human,House Lannister,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Robb Stark's camp,Not Available,"A young noble of House Lannister, eager to prove his worth. Captured during the war, his fate intertwines tragically with that of Jaime Lannister in the Stark camp.",,
+CH005,Amory Lorch,Human,House Lorch,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Harrenhal,Rhaenys Targaryen,"A brute clad in steel, Ser Amory Lorch served House Lannister as a sword, not a man. His reputation dripped with blood, from the sack of Elia Martell’s children to countless nameless dead strewn across the Riverlands.
+He was neither knight nor monster—only a cruel instrument, loyal to coin and command.
+At Harrenhal, he hunted prisoners and presided over the tortures that turned the blackened fortress into a place of dread. But in the end, he was undone not by battle, but by a shadow—Arya’s whispered vengeance, passed through the lips of death itself.",,
+CH006,Areo Hotah,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Dorne,Arys Oakheart,"The stoic and formidable captain of Prince Doran Martell's guard in Dorne. Wielding a longaxe, he is ever-vigilant, embodying unwavering loyalty and silent strength.",,
+CH007,Arthur Dayne,Human,House Dayne,Beric Dayne,Ashara Dayne and Allyria Dayne,"None (no known spouse, died young)",None,Dead,Dawn,Tower of Joy,Not Available,"They called him the Sword of the Morning, and he bore the blade to match—a greatsword named Dawn, pale as moonlight, forged from a star.
+Ser Arthur Dayne of House Dayne was a legend clad in silver plate, the most honorable knight of his age and the deadliest by far.
+At the Tower of Joy, he stood with only two others against six—and nearly won. He fell to young Ned Stark and the northern blades, though not without the weight of treachery at his back.
+Even in death, tales of Dayne’s prowess echoed through courts and camps alike. He was the sword Westeros never again would wield—shining, gallant, and gone too soon.",,
+CH008,Arya Stark,Human,House Stark,"Eddard Stark, Catelyn Stark","Robb, Sansa, Bran, Rickon",None (never married),None,Alive,"Needle, Valyrian steel dagger",King's Landing,"Meryn Trant, Walder Frey, Night King","Arya of House Stark, the wolf girl, the water dancer, the one who whispered names into the dark. Born to nobility, she cast aside silks and stitches for steel.
+She wandered through war, through lands of dust and death, forging herself in the fires of loss. From the Hound to the House of Black and White, every step stripped her down and built her anew.
+She became No One, but remembered who she was. Vengeance sang in her blood, and death bowed to her will.
+When the Long Night came, it was Arya—child of Winterfell—who struck the blow that legends would never forget. But she did not stay to be remembered. She sailed west, toward the edge of maps and the unknown, where only wolves dare tread.",,
+CH009,Astapor slaver,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Astapor,Not Available,"A representative of the cruel masters of Astapor, known for their inhumane training of the Unsullied. Their reign ends with Daenerys Targaryen's fiery justice.",,
+CH010,Astapor soldier,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Astapor,Not Available,"A member of the military force enforcing the slavers' will in Astapor, ultimately overthrown during Daenerys's liberation of the city.​",,
+CH011,Axell Florent,Human,House Florent,Not Available,Alester Florent,Not Available,Not Available,Dead,Not Available,Dragonstone,Not Available,"An ambitious noble from House Florent, uncle to Queen Selyse. He seeks influence in Stannis Baratheon's court, often clashing with Davos Seaworth.",,
+CH012,Baelish soldier,Human,House Baelish,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,King's Landing,Not Available,"He bore no name in the songs, no coat of arms upon his chest. He wore the mocking bird of Littlefinger, and that was cause enough for distrust.
+In shadowed halls and behind stone walls, he served a master who smiled with knives. Whether in the Vale, the Fingers, or King’s Landing, these men moved like whispers—quiet, loyal, and paid.
+When the schemes collapsed and the spider’s web burned, many such men vanished with their master’s ambition—forgotten, unmarked, but dangerous all the same.",,
+CH013,Balon House Greyjoy,Human,House Greyjoy,Quellon Greyjoy,"Euron Greyjoy, Victarion Greyjoy",Alannys Harlaw,"Theon, Yara, Rodrik, Maron",Dead,Not Available,Pyke,Not Available,"Lord of the Iron Islands and father to Theon. A proud and unyielding ruler, he declares independence from the Iron Throne, reigniting old conflicts.",,
+CH014,Bannen,Human,Night's Watch,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Beyond the Wall,Not Available,"A ranger of the Night's Watch, remembered for his bravery beyond the Wall. His disappearance adds to the growing tales of dread from the north.",,
+CH015,Baratheon of Dragonstone soldier,Human,House Baratheon,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Stormlands,Not Available,"Clad in black and gold, these men marched beneath the stag and flame, loyal to the Lord of Dragonstone, Stannis Baratheon.
+They followed him through ash and shadow, through Blackwater’s fire and the icy wastes of the North. Stern of face and sharp of sword, they were not men of laughter or song, but duty—unyielding, unrelenting.
+Many burned for their king’s cause—some by blade, others by the fires of R’hllor. They were not remembered in glory, but in the smoke that clung to every step Stannis took toward doom.",,
+CH016,Baratheon of King's Landing soldier,Human,House Baratheon,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,King's Landing,Not Available,"The red and gold cloaks of King’s Landing bore the crown stag of House Baratheon during Robert’s reign, though few held his spirit.
+They swaggered in the shadow of power, half guards, half brutes. When Robert fell, they bent like reeds in the wind—first to Joffrey, then to fear, then to whoever wore the crown.
+Their loyalty was not to a king, but to survival. And when the lion roared louder than the stag, they changed their tune to match the court’s cruel music.",,
+CH017,Baratheon of Storm's End guard,Human,House Baratheon,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Storm's End,Not Available,"A loyal soldier serving House Baratheon at Storm's End, standing firm during sieges and embodying the resilience of the Stormlands.",,
+CH018,Barra (Baratheon illegitimate son),Human,House Baratheon,"Robert Baratheon, Mhaegen",Gendry (half-brother),None,None,Dead,Not Available,King's Landing,Not Available,"A young girl, one of King Robert's many bastards. Her existence is a testament to Robert's indiscretions and the perilous lives of illegitimate children in noble games.​",,
+CH019,Barristan Selmy,Human,House Selmy,Ser Lyonel Selmy,Not Available,None,None,Dead,Sword,Meereen,Sons of the Harpy,"Barristan the Bold, the last true knight of Westeros, stood tall even as kingdoms crumbled.
+A member of the Kingsguard from youth, he served Targaryens and Baratheons alike, his blade unsullied by politics or pride.
+Dismissed by a boy king with no honor, he crossed the Narrow Sea and pledged himself once more to House Targaryen—not for ambition, but for justice.
+In Meereen, he stood beside Daenerys, sword in hand, heart still noble. He died as he lived—not in bed, not in retreat, but with sword drawn, surrounded by foes, fighting for a queen who sought to break the wheel.",,
+CH020,Belicho Paenymion,Human,House Paenymion,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Meereen,Not Available,"A member of Meereen's ruling elite, resistant to Daenerys's reforms. His opposition marks him as an obstacle to the city's transformation.",,
+CH021,Benjen Stark,Human,House Stark,"Rickard Stark, Lyarra Stark","Eddard, Brandon, Lyanna Stark",None,None,Dead,Not Available,Beyond the Wall,Not Available,First Ranger of the Night's Watch and brother to Eddard Stark. His mysterious disappearance beyond the Wall sparks concern and speculation.,,
+CH022,Beric Dondarrion,Human,House Dondarrion,Lord Simon Dondarrion,Not Available,None,None,Dead..,Flaming sword,The Stormlands,Not Available,"The Lightning Lord of Blackhaven, once a knight in shining armor, was struck down and struck down again—and each time, the Lord of Light brought him back.
+His eye lost, his flesh scarred, Beric became more ghost than man. He walked through darkness with a flaming sword and a hollowed soul.
+He led the Brotherhood Without Banners, fighting not for lords or glory, but for the people crushed beneath the boots of war.
+At the end, he gave his final life so others could live—his last resurrection a gift to the realm, paid with fire and faith.",,
+CH023,Billy,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Winterfell,Not Available,"A minor figure whose deeds are scarcely recorded, yet his presence contributes to the vast tapestry of Westeros's history.",,
+CH024,Biter,Human,Not Available,Not Available,Not Available,None,None,Dead,Not Available,Riverlands,Lommy Greenhands,"A grotesque and violent criminal, known for his disfigured appearance and savage behavior. He roams with Rorge, spreading fear wherever they go.",,
+CH025,Boar,Boar,Not Available,Not Available,Not Available,Not Available,Tusks,Dead,Not Available,The Kingswood,Not Available,"It was no mere beast that felled King Robert Baratheon. The great boar of the Kingswood was a tusked omen, a wrathful avatar of the old gods or perhaps the gods’ justice for a usurper grown fat and slow.
+They said it gored the king through the belly, its rage unshaken by blade or crown. Some whispered that wine loosened Robert’s grip, others that poison made his veins run slow.
+Whatever the truth, the boar did what armies and assassins could not—it ended the stag's reign with tusk and fury. Its carcass was feasted upon, but its legacy lingered in the blood that stained the Iron Throne.",,
+CH026,Hound,Dog,House Bolton,Not Available,Not Available,Not Available,Teeth,Dead,Not Available,King's Landing,Not Available,Savage hunting dog.,,
+CH027,Bolton heir,Human,House Bolton,Roose Bolton,Not Available,Not Available,Not Available,Dead,Not Available,Winterfell,Not Available,"The successor to House Bolton, notorious for their flayed man sigil and brutal methods. His rise signifies a dark chapter in the North's history.",,
+CH028,Bolton soldier,Human,House Bolton,Not Available,Not Available,Not Available,Not Available,Not Available,Standard melee weapons (typically sword or spear),Winterfell,Not Available,"In flayed leathers and cruel smiles, the men of House Bolton served not loyalty but terror.
+They marched beneath the flayed man, practiced in torture, masters of fear. Whether roasting captives or skinning rebels, they did not just kill—they unmade.
+When Roose Bolton rose, these men were his shadow. When Ramsay ruled, they became monsters in the shape of men.
+But fear is a fickle master. When Winterfell burned and the wolves returned, these soldiers were hunted, one by one, their screams swallowed by the snows they once ruled.",,
+CH029,Bowen Marsh,Human,Night's Watch,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Castle Black,Not Available,The cautious and traditional First Steward of the Night's Watch. His resistance to change leads to pivotal decisions affecting the Watch's future.,,
+CH030,Brienne of Tarth,Human,House Tarth,Selwyn Tarth,Dead,None,None,Alive,Oathkeeper,Not Available,Sandor Clegane,"They called her the Maid of Tarth, but she was no fair maiden. Brienne was a tower of steel and loyalty, a true knight in all but name.
+Mocked for her looks, scorned for her dreams, she chose honor over comfort, oaths over glory. She served Renly Baratheon, then Catelyn Stark, then Jaime Lannister—yet belonged to none.
+Her blade was named Oathkeeper, and she wielded it in the name of promises others forgot. She crossed a kingdom for a girl she barely knew, fought a bear, defied lords, and lived not by pride but by principle.
+In the end, she was knighted not by titles, but by truth. The songs may not sing of her beauty—but they will never forget her courage.",,
+CH031,Bronn,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Alive,Sword,Not Available,Ser Vardis Egen,"Bronn of the Blackwater, sellsword, climber of ladders and ladders of men. He entered the story with a sly grin and a quick blade, fighting for coin and drinking for joy.
+He fought for Tyrion, not out of friendship but for gold—and yet stayed longer than coin required. He killed knights, dodged lords, bedded women, and kept his boots dry.
+When the realm burned and dragons soared, Bronn rose higher still—from lowborn killer to Lord of Highgarden, with titles he barely respected.
+He was the kind of man history forgets and legends envy—a survivor, a schemer, and a man too clever to ever die in someone else’s war.",,
+CH032,Brother Ray,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Riverlands,Not Available,"A peaceful septon who renounces violence, leading a group of villagers in a tranquil life. His past and teachings leave a lasting impact on Sandor Clegane.",,
+CH033,Brotherhood Without Banners Member,Human,Brotherhood Without Banners,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Riverlands,Not Available,"A sworn brother in a group of outlaws turned vigilantes, striving to protect the common folk amidst the chaos of war, often guided by the Lord of Light.",,
+CH034,Catelyn Stark,Human,House Stark,Lord Hoster Tully and Lady Minisa Whent,Lysa Arryn and Edmure Tully,Not Available,"Robb, Sansa, Arya, Bran, Rickon",Dead,None,The Twins,Not Available,"Lady of Winterfell, fiercely protective mother",,
+CH035,Catspaw assassin,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,King's Landing,Not Available,"A mysterious figure who attempts to murder Bran Stark in his sleep, sparking intrigue and suspicion that ripple through noble houses.",,
+CH036,Cersei Lannister,Human,House Lannister,Tywin Lannister,"Jaime, Tyrion",Robert Baratheon (former),"Joffrey, Myrcella, Tommen",Dead,None directly,"Red Keep, King's Landing",Sept of Baelor Explosion,"Cersei, the lioness of the Rock, born of pride and prophecy. Daughter to Tywin, twin to Jaime, mother to kings, she believed herself a queen of destiny.
+Her beauty was a weapon, her love a poison, her hatred boundless. She ruled through whispers and wildfire, making allies of enemies and corpses of rivals.
+The prophecy of Maggy the Frog haunted her steps—gold would be her shroud, her children would die, and she would be cast down by a younger queen.
+She became queen of ash and silence, a mother mourning sons she twisted, a queen with no people left to rule.
+In the end, the Red Keep crumbled around her, and all her power amounted to nothing but stone and dust.",,
+CH037,Champion of Meereen,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Outside Meereen,Not Available,"A warrior who challenges Daenerys's champions to single combat, representing the old guard's resistance to her new rule.",,
+CH038,Champion of Meereen's Horse,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Outside Meereen,Not Available,"A proud beast adorned in golden armor, this steed bore the warrior of Meereen into combat, only to fall before Daenerys Targaryen's might.",,
+CH039,Child of the Forest,Human,Children of the Forest,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,"Cave of the Three-Eyed Raven, Beyond the Wall",Not Available,"An ancient being of magic and mystery, the Child of the Forest is part of the original inhabitants of Westeros, deeply tied to nature and the old gods.",,
+CH040,City watch guard,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Sword or spear,King's Landing,Not Available,"Gold cloaks they were called, but few bore the weight of justice. The City Watch of King’s Landing served not the law, but the throne—or whoever held it.
+They were gaolers and gatekeepers, thugs in uniform, patrolling alleyways thick with rot and secrets.
+When kings rose and fell, so did their loyalty. When chaos came, they looted before they fought. And when dragons flew overhead, many dropped their cloaks and fled, leaving justice to the flames.",,
+CH041,Clegane's horse,Horse,House Clegane,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,King's Landing,Not Available,"A monstrous black stallion befitting its fearsome rider, Sandor 'The Hound' Clegane. As fierce and stubborn as the man it carried.",,
+CH042,Craster,Human,Not Available,Not Available,Not Available,Multiple wives,Many,Dead,Not Available,"Craster's Keep, Beyond the Wall",Not Available,"A wildling of ill repute, Craster dwelt beyond the Wall with his many daughters-turned-wives, trading shelter for offerings to the White Walkers.",,
+CH043,Daario Naharis,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Alive,Arakh,Not Available,Champion of Meereen,"A sellsword prince with a poet’s smirk and a killer’s hands. Daario Naharis was all gold tooth and silken swagger, a peacock amid war-hardened crows.
+He served the Second Sons until he slit his captains' throats and offered their heads to a queen. For Daenerys Targaryen, he became sword, lover, and ruthless advisor.
+He spoke in blades and boldness, wooing with wit and winning with blood.
+When Daenerys crossed the sea, she left him behind—to keep the peace in Meereen. Some say he ruled as a tyrant in velvet; others say he still waits for his silver queen to return.",,
+CH044,Daenerys Targaryen,Human,House Targaryen,Aerys II Targaryen,Rhaegar Targaryen and Viserys Targaryen,None,"Drogon, Rhaegar, Viserion",Dead,Dragons,"Throne Room, King's Landing",Civilians,"Stormborn in exile, mother of dragons, breaker of chains. Daenerys Targaryen rose from ash and blood, the last embers of a dying dynasty.
+She walked through fire and came forth reborn, forging an army not from lords, but from the broken and the bound.
+Her mercy was fierce, her justice unforgiving. She freed cities, shattered chains, and scorched those who stood against her. But in her heart burned the fire of old Valyria—and fire consumes.
+In the end, her dream of a better world became a nightmare wrought in dragonflame. Slain by the one she loved, she died at the edge of the throne she never sat upon—hailed as both liberator and tyrant.",,
+CH045,Deer,Human,Wildlife,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Forest near King's Landing,Not Available,"A symbol of House Baratheon, and in this tale, merely a creature caught in the wrong place at the wrong time.",,
+CH046,Dickon Tarly,Human,House Tarly,Lord Randyll Tarly and Lady Melessa Florent,"Samwell Tarly, Talla Tarly, and two other sisters",None,None,Dead,Sword,Field of Fire,Not Available,"Son of Lord Randyll Tarly, and as tall and true as the oaks of the Reach. Dickon was all things a knight should be—brave, loyal, gallant—but bound by duty to a father made of stone.
+He fought for the Tyrells, then bent the knee to the crown. When Daenerys demanded fealty after battle, Dickon stood by his father, choosing honor over survival.
+For that choice, he died in dragonfire—reduced to ash for the crime of loyalty.",,
+CH047,Direwolf,Direwolf,House Stark,Not Available,"Grey Wind, Lady, Nymeria, Summer, Shaggydog, and Ghost",None,Not Available,Sightings confirmed,Teeth and claws,Various locations across Westeros,Not Available,"The sigil of the North made flesh. Six pups found in the snow, born of a dead she-wolf and destined to mirror their Stark companions.
+Each direwolf carried a shard of its master’s soul—fierce Ghost, loyal Grey Wind, savage Nymeria, gentle Lady, fearless Summer, and doomed Shaggydog.
+They were guardians, avengers, omens. And as the Starks fell and rose, so too did their wolves—vanishing one by one into death, shadow, or legend.
+Only a few remained when the dust settled—white-furred ghosts among men. Many Direwolf are unnamed in the known lore though their impact is none the less relevant.",,
+CH048,Dontos Hollard,Human,House Hollard,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Blackwater Bay,Not Available,"Once a knight, then a fool. Ser Dontos fell from grace but found redemption in aiding Sansa Stark's escape from King's Landing.",,
+CH049,Doran Martell,Human,House Martell,Not Available,"Elia, Oberyn Martell",Mellario,Trystane Martell,Dead,Not Available,Dorne,Not Available,"Prince of Dorne, wise and contemplative. He sought peace amidst vengeance, but his calm demeanor masked deep-rooted fury.",,
+CH050,Doreah,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Qarth,Not Available,"A former handmaiden of Daenerys Targaryen, once loyal but later swayed by betrayal, her end came with quiet finality.",,
+CH051,Dorne Horse,Horse,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Not Available,Not Available,"A desert-bred steed, strong and swift, trained to endure the sun-scorched sands of the Dornish hinterlands.",,
+CH052,Dorne Smuggler,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Not Available,Not Available,"A shadowy figure of the Dornish ports, dealing in secrets and stolen cargo, often caught between crowns and causes.",,
+CH053,Dorne Soldier,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,"A disciplined spear-wielder under House Martell's banner, guarding Dorne’s borders with honor and pride.",,
+CH054,Dothraki Khal,Human,Dothraki,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Various Dothraki camps,Not Available,"A warlord of the Great Grass Sea, feared for his ruthlessness and command over thousands of screamers.",,
+CH055,Dothraki man,Human,Dothraki,Not Available,Not Available,Not Available,Not Available,Dead,Arakh,Westeros,Not Available,"Riders of the Great Grass Sea, the Dothraki were thunder made mortal. No walls, no crowns—only blood, speed, and the scream of hooves.
+Each man was a warrior from birth, his braid uncut until shamed in battle. They lived by the arakh and died in glory.
+When Daenerys came, some called her Mhysa. She led them across the sea, beyond the edge of their world. But dragons do not tame easily, and neither do the horse lords.
+When the city burned, their cries echoed louder than the flames.",,
+CH056,Dragonstone citizen,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Dragonstone,Not Available,"One of the many lives on the windswept isle of Dragonstone, overshadowed by fire, faith, and royalty.",,
+CH057,Drennan,Human,House House Greyjoy,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Lost at Sea,Not Available,"An ironborn warrior, loyal to Theon House Greyjoy during his ill-fated campaign in the North, met a brutal end.",,
+CH058,Drogo's horse,Horse,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Dothraki Sea,Not Available,"Steed of the Great Khal Drogo, bred for battle and blood. It shared in its master's fate with silent dignity.",,
+CH059,Eddison Tollett,Human,House Tollett,Not Available,Not Available,Not Available,None,Dead,Sword or dragonglass,Castle Black,Not Available,"Dolorous Edd, they called him—dark of wit, dry of humor, and ever weary.
+He served the Night’s Watch with grumbling loyalty, surviving battles that claimed braver men.
+He stood with Jon Snow through mutiny and madness, fire and ice. And when Jon left the Wall, Edd bore the burden of command with grim reluctance.
+He died as he lived—watching the end come from behind tired eyes, a joke on his lips and a sword in his hand.",,
+CH060,Ellaria Sand,Human,Sand Snakes,"Harmen Uller, Lord of Hellholt",Not Available,Not Available,Tyene Sand (and 3 other Sand Snakes),Fate not shown,Poison-tipped dagger,Not Available,Myrcella Baratheon,"Paramour of Oberyn Martell and mother to the Sand Snakes, Ellaria burned with love—and hate.
+When Oberyn fell, her grief twisted into fury. She poisoned, plotted, and pulled Dorne into vengeance against the Lannisters.
+But vengeance feeds on itself. In her pursuit of justice, she orphaned innocents, shattered alliances, and brought ruin to her own house.
+In the dungeons of King’s Landing, chained beside the rotting corpse of her daughter, she bore witness to her own undoing in silence and decay.",,
+CH061,Euron Greyjoy,Human,House Greyjoy,Not Available,Balon Greyjoy and AeronGreyjoy,Not Available,One unborn child (with Cersei),Dead,Axe,Lost at Sea,"Balon Greyjoy, Rhaegal","Crow’s eye, kinslayer, sea-reaver, and mad prophet of the deep. Euron House Greyjoy returned from exile with madness in his blood and thunder in his sails.
+He spoke of krakens and drowned gods, of Valyrian relics and fire made flesh. No man trusted him, and no man dared turn his back on him.
+He carved a path of slaughter through sea and sky, capturing dragons, murdering kin, and bedding queens.
+When his war came to the shores of King’s Landing, he laughed in the face of death. And death, in turn, struck him down like a wave upon the rocks.",,
+CH062,Faith Militant Brother,Human,Faith Militant,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Great Sept of Baelor,Not Available,"A zealot sworn to the Seven, armored in devotion and iron, enforcer of faith through flame and steel.",,
+CH063,Frey family member,Human,House Frey,Not Available,Numerous (siblings),Not Available,Not Available,Dead,Not Available,The Twins,Not Available,"One of the many faces of House Frey, indistinct among the treacherous brood that orchestrated the Red Wedding.",,
+CH064,Frey soldier,Human,House Frey,Not Available,Not Available,Not Available,Not Available,Not Available,Sword or spear,The Twins,House Stark,"A dagger in the back of honor. The soldiers of House Frey fought with numbers, not valor.
+They stood at the Red Wedding not as warriors, but as butchers. Draped in guest’s cloaks, they danced to the music of betrayal, turning feasting hall into slaughterhouse.
+They fought for Walder Frey and died with him too—cut down like wheat when the wolves returned for justice.
+Few remember their names. But their shame is etched in blood across the pages of history.",,
+CH065,Gared,Human,Night's Watch,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Haunted Forest,Not Available,"A seasoned ranger of the Night’s Watch, witness to the terror beyond the Wall. His warnings fell on deaf ears.",,
+CH066,Gendry,Human,House Baratheon,King Robert Baratheon and unnamed tavern wench,"Half-siblings include Mya Stone, Bella, Edric Storm, and Barra",Not Available,None confirmed,Alive,War hammer,Still Alive,Not Available,"A bastard of Robert Baratheon, born in the gutters of King’s Landing with fire in his arms and strength in his forge.
+He knew no title, no house, only the weight of a hammer and the scorn of nobility.
+Yet fate drew him into the paths of queens and killers, from the Brotherhood to the Battle of Winterfell.
+He fought with honor, loved with confusion, and rose—by royal decree—to become Lord of Storm’s End.
+But in his heart, he remained Gendry of the forge: iron-willed, loyal, and tempered by fire.",,
+CH067,Ghost,Direwolf,House Stark,Not Available,"Grey Wind, Lady, Nymeria, Summer and Shaggydog",Not Available,Not Available,Alive,Teeth and claws,Still Alive,Not Available,"Jon Snow's loyal albino direwolf, known for his silent demeanor and fierce loyalty.",,
+CH068,Giant Wight,Undead Giant,Undead,Not Available,Not Available,Not Available,Not Available,Undead,Sheer physical power,Beyond the Wall,Not Available,"A behemoth of death, a legend unmade. Once a mighty giant of the far north, he fell beneath the weight of winter.
+Raised by the Night King, his soul torn from rest, he marched in silent fury, crushing men and gates alike beneath rotting feet.
+His eyes burned blue. His breath carried frost. And his ruin was a harbinger of the cold that devoured the world.
+No blade remembered his name. No grave bore his bones.",,
+CH069,Giant mammoth,Mammoth,Wildlife,Not Available,Not Available,Not Available,Not Available,Dead,Tusks,Beyond the Wall,Not Available,"Wooly titans from a world older than crowns. The Free Folk rode them into war, shaking the earth with every step.
+Great shaggy beasts, their tusks were trees, their hides thick as armor. When the Night’s Watch faced them, they faced more than muscle—they faced history awakened.
+As winter deepened, even the mammoths fell to undeath, twisted into icy engines of destruction.
+Their trumpets once heralded ancient glory. Now they echo in memory only.",,
+CH070,Giant wildling,Human,Free Folk,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Beyond the Wall,Not Available,"A towering creature allied with the Free Folk, fierce in battle, and driven by a primal need for survival.",,
+CH071,Gladiator,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Varies,Fighting pits of Meereen,Not Available,"In the fighting pits of Meereen, men became monsters for coin and applause.
+These were no knights—only flesh to be torn and blood to be spilled.
+When Daenerys reopened the pits to appease tradition, old warriors and young fools alike stepped into the sand.
+Some fought for freedom, others for fame, and all danced with death.
+Few lived. None were remembered.",,
+CH072,Goat,Goat,Wildlife,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Mountains near Vale,Not Available,"A humble creature, its presence in Westeros more culinary than combative, yet not without narrative impact.",,
+CH073,Golden Company horse,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,King's Landing,Not Available,"A proud beast bred for battle and trained under the discipline of the famed mercenary company. Clad in ornate barding and symbols of gold, it thundered into war alongside the best-paid swords in Essos.",,
+CH074,Golden Company soldier,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,King's Landing,Not Available,"A seasoned mercenary from the legendary Golden Company, known for discipline, honor, and betrayal. He followed the gold, not the crown, fighting in foreign wars until the day fate claimed him in Westeros.",,
+CH075,Grand Maester Pycelle,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,"Red Keep, King's Landing",Not Available,"A cunning and aged man of the Citadel, Pycelle served the Iron Throne through shifting rulers. Behind a frail façade lay a shrewd political survivor. His loyalties bent with power, until they led to his quiet, sudden end.",,
+CH076,Great Master,Human,Great Masters of Meereen,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Meereen,Not Available,"One of Meereen's slaveholding elite, clinging to power even as Daenerys stormed their gates. Dressed in silk and arrogance, he thought himself untouchable until the dragons came.",,
+CH077,"Gregor ""The Mountain"" Clegane",Human,House Clegane,Not Available,Sandor (brother),Not Available,None,Undead,"Greatsword, brute strength","Red Keep, King's Landing",Oberyn Martell,"More beast than man, a towering executioner of pain. Ser Gregor was a mountain in flesh—huge, brutal, and without mercy.
+He raped, burned, and butchered under Lannister banners, a plague of steel that silenced cities.
+Poisoned by Oberyn Martell, he was remade into something worse—a silent shadow in black armor, death incarnate.
+He served Cersei until the very end, standing unmoved by fire or blade.
+It was only his brother, the Hound, who dragged him into the abyss. And there, at last, the Mountain fell.",,
+CH078,Grenn,Human,Night's Watch,Not Available,Not Available,Not Available,Not Available,Dead,Sword or dragonglass,Castle Black,Not Available,"A simple man of the Night’s Watch, Grenn held no titles and claimed no glory. But when the gate beneath the Wall was threatened by a giant, Grenn and a handful of brothers stood their ground.
+They held the tunnel with oaths on their lips and fear in their eyes. They died where they stood, as true men of the Night’s Watch.
+No songs bear his name—but the Wall still stands because of it.",,
+CH079,Grey Wind,Direwolf,House Stark,Not Available,"Ghost, Lady, Nymeria, Summer, and Shaggydog",Not Available,Not Available,Dead,Teeth and claws,The Twins,Not Available,"Robb Stark’s direwolf, swift and savage, born of snow and fate.
+Grey Wind led charges into battle, faster than arrows, crueler than steel.
+He was more than a beast—he was the young wolf’s shadow, his fury made fang.
+At the Red Wedding, he was caged like a dog and slain like a traitor.
+His head was sewn to Robb’s corpse in mockery. But in the North, they say Grey Wind still howls when justice is near.",,
+CH080,Grey Worm,Human,Unsullied,Not Available,Not Available,Not Available,Not Available,Alive,Spear,Still Alive,Not Available,"Commander of the Unsullied, a blade honed from childhood, emotion stripped, identity erased.
+Grey Worm served Daenerys with unwavering discipline, fighting for a queen who gave him purpose and love.
+He knew loss in silence and love in shadow, sharing rare warmth with Missandei amidst the cruelty of war.
+When Daenerys fell, he did not flinch. He became her justice, her sword beyond death.
+He sailed to Naath, not for peace—but perhaps for the promise of it.",,
+CH081,House Greyjoy Soldier,Human,House House Greyjoy,Not Available,Not Available,Not Available,Not Available,Not Available,Axe or sword,Iron Islands,Not Available,"Reavers, raiders, salt-soaked shadows of the sea. The soldiers of House House Greyjoy knew no mercy and sought no land—they took what was not given.
+They drowned to be reborn, feared neither gods nor kings.
+Whether under Balon or Euron, they sailed in black silence to plunder, burn, and vanish.
+Few survived the wars of Westeros, and fewer still learned any path but that of the axe.",,
+CH083,Guymon,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,"A nameless casualty swept up in the politics of power. Little is recorded of his life, save that he died a pawn in a much larger game.",,
+CH084,Harry Strickland,Human,House Strickland,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,King's Landing,Not Available,"Commander of the Golden Company, a man of poise and reputation rather than ferocity. His dreams of conquest ended as quickly as they began on the shores of Westeros.",,
+CH085,High Septon,Human,Faith of the Seven,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,"Sept of Baelor, King's Landing",Not Available,"A man cloaked in ceremony and jewels, he once represented the gods' voice in the Red Keep. Politics, not piety, shaped his sermons, and when power shifted, he was swept aside.",,
+CH086,High Sparrow,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,"Sept of Baelor, King's Landing",Not Available,"A zealot in rags who rose to become the voice of the Faith Militant. He cleansed the realm with fire and judgment, toppling queens and lords alike, before wildfire claimed his holy reign.",,
+CH087,Hill tribesman,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Crude weapons,King's Landing,Not Available,"Clad in furs and iron rings, the mountain clans of the Vale spoke with blades, not banners.
+They answered to no lords until Tyrion Lannister bought their loyalty with promises of blood and gold.
+They marched into cities they had only heard of in curses, laying waste like wolves among sheep.
+And when the wars ended, they melted back into the mountains, laughing at the softness of the south.",,
+CH088,Hizdahr zo Loraq,Human,House zo Loraq,Not Available,Not Available,Daenerys Targaryen,None,Dead,Not Available,Meereen,Not Available,"A noble of Meereen caught between tradition and revolution. He played courtly games with Daenerys, seeking peace while hiding rebellion. The arena would be his end.",,
+CH089,Hodor,Human,House Stark,A Cow and a Sheep,Not Available,None,None,Dead,Worg,"Cave of the Three-Eyed Raven, Beyond the Wall",Not Available,"Hodor.
+A gentle giant with the strength of ten men and the mind of a child. Once named Wylis, his fate was written before his body could bear it.
+He carried Bran Stark through snow and shadow, never questioning, never fearing.
+When the dead came, he held the door. And in that act, all the pain, the confusion, the burden of years found its purpose.
+Hodor. The boy who bore the future on his back—and died saving it.",,
+CH090,Bran Stark,Human,House Stark,Eddard Stark and Catelyn Stark,"Robb Stark, Sansa Stark, Arya Stark, and Rickon Stark​",None,None,Alive,Sitting down,Not Available (Alive at end of series),Not Available,"He fell from a tower and rose as something more. Brandon Stark, once a boy who dreamed of knights, became a vessel for ancient power.
+He walked through wolves, flew through ravens, and witnessed the birth of legends.
+As the Three-Eyed Raven, he saw past, present, and future—not as memories, but as truths.
+Detached from grief, above fear, he watched as the world turned. And when the ashes cooled, it was Bran who became king—not to rule, but to remember.
+For in memory lies the fate of men.",,
+CH091,Horse,Horse,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Various Locations,Not Available,"A nameless beast of burden or battle. Loyal, swift, and doomed to fall in service to men who ride to war.",,
+CH092,Horse breeder,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Meereen,Not Available,"A craftsman of hoof and hide, raising steeds for nobility and warlords alike. His legacy rode across continents, though history remembers only the ones who died upon their mounts.",,
+CH093,Hoster Tully,Human,House Tully,Not Available,Brynden Tully,Minisa Whent,"Catelyn, Lysa, Edmure",Dead,Not Available,Riverrun,Not Available,"Lord of Riverrun and staunch supporter of the old ways. A man of honor, family, and quiet regrets, who helped forge the Stark-Tully bond through marriage. His death marked the fading of an older generation.",,
+CH094,Ilyn Payne,Human,House Payne,Not Available,Not Available,Not Available,None,Fate unconfirmed,Executioners Sword,Not Available (Fate left unclear),Not Available,"The King’s Justice, silent executioner of House Lannister. His tongue removed for offending the Mad King, Ilyn Payne spoke only through steel.
+He beheaded Eddard Stark before the eyes of a kingdom, and his presence became a grim omen at court.
+He carried out justice without word, remorse, or question.
+When the war turned, he faded from view—but his shadow lingered over the Iron Throne like the fall of an axe.",,
+CH095,Irri,Human,Not Available,Not Available,Not Available,None,None,Dead,Not Available,Lost at Sea,Not Available,"Handmaid and loyal follower of Daenerys Targaryen, she bore witness to dragons' birth and the fall of cities. Her quiet strength served her queen to the bitter end.",,
+CH096,Jack,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,"A minor figure lost to the chaos of civil war. His fate, like many, was to die unnamed and uncelebrated.",,
+CH097,Jafer Flowers,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Beyond the Wall,Not Available,"A ranger of the Night's Watch, loyal to the black and the realm. He perished Beyond the Wall, another fallen brother claimed by the cold and the dead.",,
+CH098,Jaime Lannister,Human,House Lannister,Tywin Lannister,"Cersei Lannister, Tyrion Lannister",None,"Joffrey, Myrcella, Tommen (with Cersei)",Dead,"Sword, Incest","Red Keep, King's Landing","King Aerys II Targaryen (The Mad King), Alton Lannister","Kingslayer. Oathbreaker. Lion of Lannister. Jaime’s name was spoken in equal parts awe and scorn.
+He killed the Mad King to save a city, and was cursed for it. He loved his sister with fire and shame. He served with brilliance, fought with fury, and lost more than most.
+When his sword hand was taken, so too was his arrogance. What remained was something closer to a man.
+He rode north to fight for the living, then rode south for love—knowing it would kill him.
+In the end, he died in his sister’s arms, not as a lion, not as a knight, but as a man flawed and faithful to the last.",,
+CH099,Janos Slynt,Human,House Slynt,Not Available,Not Available,Not Available,None mentioned,Dead,Politics,Castle Black,Not Available,"Once a butcher’s son, Janos Slynt climbed the greasy pole to become Commander of the City Watch of King’s Landing. He sold loyalty like meat—cheap and bloody.
+He betrayed Ned Stark at the steps of Baelor’s Sept, earning a knighthood and a seat in the court of vipers. But rats do not fare well in storms.
+When the tide turned, he was cast to the Wall, stripped of title and favor. There he found no gold, only cold.
+When Jon Snow asked for his loyalty, Slynt cowered. And for that cowardice, he knelt—headless, remembered not for power, but for disgrace.",,
+CH100,Jaqen H'ghar,Human,Not Available,Not Available,Not Available,None,None,Alive,Stealth,"Not Available (Alive, fate ambiguous)",Not Available,"A man has many faces. A man has many names. Jaqen H’ghar was one such name, whispered like a riddle and forgotten like a dream.
+He came from the black cells, bound for death, yet walked free by fire and fate.
+At the House of Black and White, he served the Many-Faced God, killing without mercy and without ego.
+To Arya Stark, he was teacher, tormentor, mirror. To the world, he was a whisper in the dark, a knife behind a smile.
+Perhaps he never existed at all.",,
+CH101,Jeor Mormont,Human,House Mormont,Not Available,Maege Mormont,None,Jorah Mormont,Dead,Not Available,"Craster's Keep, Beyond the Wall",Not Available,"The Old Bear, Lord Commander of the Night's Watch. Fierce and fatherly, he led the Watch into the unknown and gave his life for honor and truth.",,
+CH102,Joffrey Baratheon,Human,House Baratheon,Cersei Lannister and Jaime Lannister,Myrcella Baratheon and Tommen Baratheon,Not Available,None,Dead,Crossbow,"Red Keep, King's Landing",Not Available,"Born of incest and crowned in lies, Joffrey Baratheon ruled with a golden sneer and an iron fist.
+He was cruelty wrapped in silk, a child with a crown and no conscience. He slew whores for sport, mocked the noble, and ruled by whim.
+He had his betrothed’s father slain, his people starved, and his enemies flayed—until the wine turned bitter.
+At his wedding feast, he choked and died before the realm he terrorized, purple-faced and gasping.
+And not a soul wept without relief.",,
+CH103,Jojen Reed,Human,House Reed,Howland Reed,Meera Reed,None,None,Dead,Not Available,"Cave of the Three-Eyed Raven, Beyond the Wall",Not Available,"A greenseer with visions of what must be. Young, wise beyond his years, and guided by dreams, he walked the path of destiny to guide the future of Westeros, sacrificing himself without hesitation.",,
+CH104,Jon Arryn,Human,House Arryn,Not Available,Not Available,Lysa Tully,Robert Arryn,Dead,Not Available,"Red Keep, King's Landing",Not Available,"The Hand whose death set the game into motion. Stalwart and just, he raised Ned Stark and Robert Baratheon like sons. Poison silenced him, but his absence echoed through the realm.",,
+CH105,Jon Snow,Human,House Stark,"Rhaegar Targaryen, Lyanna Stark",Aegon Targaryen (half-brother)​,None,None,Alive..,"Longclaw, Valyrian steel sword",Castle Black,"Qhorin Halfhand, Karl Tanner","Bastard of Winterfell, raised in shadow, Jon Snow was born without a name but bore the weight of the realm.
+He took the black and gave his life to it—dying once, and rising again. He fought wildlings, White Walkers, and his own brothers.
+He loved and lost, rose and fell, and slew the queen he once called savior.
+In the end, he was not king, not lord, not even remembered.
+He was the sword in the darkness, the watcher on the Wall. And when the wheel turned, he chose exile over power—just as the last hero always does.",,
+CH106,Jorah Mormont,Human,House Mormont,Jeor Mormont,None,None,None,Dead,Sword,Winterfell,Sons of Harpy,"Exiled for selling men, Jorah sought gold and honor in foreign lands but found only shame and a queen to serve.
+He loved Daenerys with silent devotion, shielding her with sword and body, even when she cast him aside.
+He fought with greyscale on his flesh and love in his blood. And when the dead came, he died as he had lived—defending the one flame that lit his world.
+She forgave him in death. And in that, he found peace.",,
+CH107,Jory Cassel,Human,House Mormont,Not Available,Not Available,Not Available,None,Dead,Sword,King's Landing,Not Available,"Captain of the Stark guard, loyal to the end. Jory served Lord Eddard Stark with steel and silence, a shadow of duty beside a noble man.
+He fought against Lannister blades in the streets of King’s Landing, defiant and fearless.
+But no courage could match the Mountain's brother. Jaime Lannister stabbed him through the eye—a swift death, undeserved.
+His name was forgotten by many. But Winterfell remembered.",,
+CH108,Joyeuse Frey,Human,House Erenford,Not Available,Not Available,Walder Frey,Not Available,Dead,Not Available,The Twins,Not Available,"Another Frey bound in alliances and weddings, whose name became lost in the river of betrayal. Her fate, like many Freys, was overshadowed by the Red Wedding's stain.",,
+CH109,Karl Tanner,Human,Not Available,Not Available,Not Available,None,None,Dead,Daggers and Stealth,Craster's Keep,Craster,"From Flea Bottom to the Wall, Karl Tanner was scum risen to the surface.
+A mutineer, a butcher, a leech feeding on weaker men. At Craster’s Keep, he drank from skulls and called himself king.
+He slit throats in the dark and ruled with blood and fear. But the North has long memories.
+Jon Snow came for him, and in the dark of the keep, justice found Karl with a sword through the throat.",,
+CH110,Karsi,Human,Not Available,Not Available,Not Available,Not Available,Two daughters,Dead,Not Available,Hardhome,Not Available,"A fierce wildling chieftess who chose peace for her people. She stood bravely against the dead at Hardhome, but mercy proved her undoing.",,
+CH111,Karstark soldier,Human,House Karstark,Not Available,Not Available,Not Available,Not Available,Not Available,Sword,Winterfell,Not Available,"Banner-men of the North, yet blood runs hot in Karstark veins.
+They followed Robb Stark to war, but broke faith when vengeance overcame reason.
+Their swords slew prisoners, and their fate was sealed in betrayal.
+Beheaded, outcast, hunted—no man who forgets the old laws survives the North.",,
+CH112,Kevan Lannister,Human,House Lannister,"Tytos Lannister, Jeyne Marbrand","Tywin, Genna, Tygett, Gerion",Dorna Swyft,"Lancel, Willem, Martyn, Janei",Dead,Not Available,"Red Keep, King's Landing",Not Available,"Brother to Tywin, loyal to House Lannister's cause. A soldier and father, often overlooked, yet held the realm together longer than most. His end came in fire beneath the Sept.",,
+CH113,Khal Drogo,Human,House Targaryen,Not Available,Not Available,Daenerys Targaryen,Rhaego (stillborn),Dead,Arakh,Lost at Sea,"Mago (Dothraki), Viserys Targaryen","The Great Stallion, undefeated in battle, a god of war in bronze and braid. Khal Drogo ruled over tens of thousands, and took no insult unavenged.
+He wed Daenerys Targaryen in blood and smoke. She softened his rage; he forged her fire.
+A poisoned wound felled him, but death could not keep him from myth.
+He rode again in visions, in dragon dreams, and in the fire that birthed a queen.",,
+CH114,Khal Moro,Human,Not Available,Mengo,Not Available,Multiple wives,Not Available,Dead,Not Available,"Dosh Khaleen Temple, Vaes Dothrak",Not Available,"A Dothraki warlord bound by blood and conquest. His rule was short-lived when Daenerys Targaryen turned fire upon the khals, claiming the Dothraki for herself.",,
+CH115,King's Landing Citizen,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,King's Landing,Not Available,"Caught in the tides of power, the common folk of King’s Landing dwell beneath the looming shadow of the Red Keep. Many perish nameless in the schemes of kings and queens, their blood soaking cobbled streets for causes they’ll never understand.",,
+CH116,King's Landing Noble,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,King's Landing,Not Available,"Silken robes, whispered betrayals, and perpetual fear define the life of a noble in the capital. Whether Lannister bannermen or schemers from minor houses, the court’s beauty conceals its venom.",,
+CH117,Knight,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Various,Not Available,"Sworn by oath, not always by honor. In Westeros, knighthood ranges from gallant defenders to brutal killers clad in steel. Some seek glory, others gold, but all bear the weight of a blade and a reputation to forge or break.",,
+CH118,Knights of the Vale,Human,House Arryn,Not Available,Not Available,Not Available,Not Available,Not Available,"Sword, lance","Battle of the Bastards, Winterfell",Not Available,"High-born and high-proud, the knights of the Vale fought with polished armor and unwavering arrogance.
+For years they stayed hidden in their mountains, watching the realm burn. But when they descended—led by Petyr Baelish and Sansa Stark—they swept the field at Winterfell like an avalanche.
+They brought order back to chaos, steel back to the North, and re-wrote their place in history with a single, thundering charge.",,
+CH119,Kraznys mo Nakloz,Human,House Nakloz,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Astapor,Not Available,"A Ghiscari slaver from Astapor, foul of tongue and cruel of spirit. He met poetic justice when Daenerys turned her Unsullied upon him, severing both his tongue and his legacy.",,
+CH120,Lady,Human,House Stark,"Nymeria (mother), Not Available (father)","Grey Wind, Summer, Shaggydog, Ghost, Nymeria",None,None,Dead,Not Available,King's Landing,Not Available,"A direwolf of House Stark, bonded with Sansa. Graceful and gentle, Lady’s early death at the hands of House Lannister marked one of the first brutal lessons in the politics of power for the Stark children.",,
+CH121,Lancel Lannister,Human,House Lannister,"Kevan Lannister, Dorna Swyft","Willem, Martyn, Janei",Amerei Frey (annulled),None,Dead,Not Available,"Red Keep, King's Landing",Not Available,"Nephew to Tywin Lannister and squire-turned-zealot. Once a pawn in Cersei’s bed and schemes, he found faith and fanaticism in the High Sparrow’s arms, only to die beneath the sept he helped empower.",,
+CH122,Lannister soldier,Human,House Lannister,Not Available,Not Available,Not Available,Not Available,Not Available,Sword or spear,"Various Locations (including Riverrun, King's Landing)",Not Available,"Red cloaks and golden lions, the soldiers of House Lannister fought for coin, fear, and glory.
+Trained, disciplined, and well-paid, they sacked cities, guarded kings, and slaughtered the innocent.
+At the Blackwater, they held the line. At the Sept, they burned with it.
+Many fell on foreign soil, never knowing if they fought for a legacy—or a lie.",,
+CH123,Leaf,Human,Children of the Forest,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Cave of the Three-Eyed Raven,Not Available,"A Child of the Forest, timeless and mysterious. Born before men carved their first castles, she fought to protect the world from their darkness. Her magic birthed the Night King — a weapon turned curse.",,
+CH124,Leech,Leech,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,"One of three leeches used in Melisandre’s blood magic ritual upon Gendry, symbolizing the lives of usurpers. A creature of little size but great narrative consequence in the lore of shadowbinding.",,
+CH125,Lem Lemoncloak,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Axe or sword,Riverrun,Brother Ray,Outlaw and member of the Brotherhood Without Banners,,
+CH126,Little Birds,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Whispers,"Red Keep, King's Landing","Grand Maester Pycelle, Kevan Lannister","Children, broken and bought, spies wrapped in rags. Varys called them his Little Birds, whispering secrets no man should know.
+They crept through castles and courts unseen, their tongues sharper than knives.
+When Qyburn took the reins, they became something darker—silent agents of death, innocence wielded as weapon.
+The realm was ruled as much by their whispers as by crowns.",,
+CH127,Loboda,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Cave of the Three-Eyed Raven,Not Available,"A fierce Thenn warrior loyal to Tormund, clad in furs and wielding savagery as his shield. Though simple in speech, he fought with the clarity of purpose only a true free man knows.",,
+CH128,Locke,Human,House Locke,Not Available,Not Available,Not Available,None,Dead,Torture tools,Craster's Keep,Not Available,"A hunter and a killer, Locke served Roose Bolton with quiet menace. He took Jaime Lannister’s hand and bled him of arrogance.
+He tracked Bran Stark into the haunted woods, where his blades could not save him.
+A warg turned his own body against him, and he died screaming—killed not by a man, but by a wolf’s soul.",,
+CH129,Lommy Greenhands,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,King's Landing outskirts,Not Available,"A peasant boy with a wit too quick and a leg too broken. Captured with Arya and Hot Pie, his end came abruptly at Polliver’s hand, his final plea mocked and unanswered.",,
+CH130,Loras Tyrell,Human,House Tyrell,Lord Mace Tyrell and Lady Alerie Hightower,"Willas Tyrell, Garlan Tyrell, and Margaery Tyrell",Not Available,None,Dead,"Sword, lance","Sept of Baelor, King's Landing",Not Available,"The Knight of Flowers, skilled tourney knight",,
+CH131,Lothar Frey,Human,House Frey,Lord Walder Frey and Lady Alyssa Blackwood,"Stevron Frey, Olyvar Frey, Roslin Tully",Not Available,Numerous (not specified),Dead,Sword,The Twins,Not Available,"Called “Lame Lothar” for his twisted leg, but it was his heart that was more deformed.
+He orchestrated the Red Wedding with quill and poison, a butcher without a blade.
+He smiled as he sent musicians to draw their bows and arrows. He drank wine as old men and young kings were slaughtered.
+But the North remembers. And Arya Stark remembered most. His end came at a dinner table—face peeled, throat cut, justice served cold.",,
+CH132,Lowell (King's Soldier),Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Not Available,Not Available,"A low-ranking guard of King’s Landing, likely loyal to coin more than crown. Like many in the capital, his name is easily forgotten but his sword was real enough when drawn.",,
+CH133,Lyanna Mormont,Human,House Mormont,Lady Maege Mormont,"Alysane, Jorelle, and Lyra Mormont​",Not Available,None,Dead,Sword,Winterfell,Giant White,The fierce young Lady of House Mormont from Bear Island.,,
+CH134,Lysa Arryn,Human,House Tully,Lord Hoster Tully and Lady Minisa Whent,atelyn Stark and Edmure Tully,Not Available,Robin Arryn,Dead,Not Available,The Eyrie,Not Available,"Sister to Catelyn, wife to Jon Arryn, mother to a weak boy and madness.
+She ruled the Eyrie with fear and folly, pouring milk of the poppy like wine and pushing rivals through the Moon Door with a trembling hand.
+She loved Petyr Baelish more than reason, more than kin—and he loved no one.
+He kissed her, then killed her, and the wind carried her screams down the mountain for days.",,
+CH135,Mace Tyrell,Human,House Tyrell,Luthor Tyrell,Not Available,Alerie Hightower,"Loras Tyrell, Margaery Tyrell",Dead,Not Available,"Sept of Baelor, King's Landing",Not Available,"The bumbling Lord of Highgarden, puffed with pride and pomp but lacking cunning. Father to Margaery and Loras, he danced the politics of King’s Landing with grace only in music and none in war.",,
+CH136,Maester Cressen,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Dragonstone,Himself,"Old, wise, and weary. Cressen served at Dragonstone, opposing Melisandre’s rising power. His final act — an attempted poisoning — became his epitaph, proving faith can kill as swiftly as betrayal.",,
+CH137,Maester Luwin,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Winterfell,Not Available,"Faithful servant of House Stark, his wisdom shaped Winterfell’s young heirs. Even in defeat, he remained their guide, tending to the wounded and defending truth until his final breath.",,
+CH138,Mag the Mighty giant,Giant,Giants,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,"Tunnel beneath Castle Black, The Wall",Grenn,"Last of the great giants beyond the Wall, Mag led his kind through the Gate in a desperate alliance with the Night’s Watch. A towering symbol of ancient strength lost to the snows of time.",,
+CH139,Mago,Human,Dothraki,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Dothraki Sea,Not Available,"A brutal Dothraki bloodrider, arrogant and cruel. Mago’s disdain for Daenerys and her reforms cost him his life — and some teeth — when Drogo took offense, and later when she hunted him anew.",,
+CH140,Mance Rayder,Human,ex.Night's Watch,Not Available,Not Available,Dalla,Not Available,Dead,Not Available,Castle Black (Execution by Jon Snow),Not Available,"The King-Beyond-the-Wall, once of the Night’s Watch. Charismatic and cunning, Mance united the free folk in a doomed march toward freedom, dying by fire and mercy, depending on whom you ask.",,
+CH141,Mandon Moore,Human,House Moore,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Blackwater Bay,Not Available,A silent Kingsguard knight whose loyalty was rumored to belong more to coin than king. His treachery during Blackwater Bay was cut short by Podrick Payne’s blade.,,
+CH142,Manticore,Magical Beast,Manticore Species,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Qarth,Not Available,"A venomous creature of Essos, small in size but deadly beyond measure. One such beast nearly assassinated Daenerys — a reminder that even dragons must beware stings in silk.",,
+CH143,Margaery Tyrell,Human,House Tyrell,"Mace Tyrell, Alerie Hightower",Loras Tyrell,"Renly Baratheon, Joffrey Baratheon, Tommen Baratheon",None,Dead,Not Available,"Sept of Baelor, King's Landing",Not Available,"Rose of Highgarden, queen thrice over, and a master of courtly influence. With charm as sharp as any blade, Margaery danced through the lions’ den until the sept exploded, cutting her tale short in flame and rubble.",,
+CH144,Martyn Lannister,Human,House Lannister,Kevan Lannister,Lancel Lannister,None,None,Dead,Not Available,Riverrun,Not Available,"A boy born into gold and blood, Martyn was more ward than warrior. Taken prisoner by the Young Wolf, his fate was sealed by a Karstark blade, becoming another brick in the wall of vengeance.",,
+CH145,Matthos Seaworth,Human,House Seaworth,Davos Seaworth,Not Available,Not Available,None,Dead,Not Available,Blackwater Bay,Not Available,"Son of the Onion Knight, devout and brave. Matthos followed Stannis with zeal but met the fury of wildfire at Blackwater, his hopes — and ship — splintering in the green inferno.",,
+CH146,Meera Reed,Human,House Reed,Lord Howland Reed,Jojen Reed,Not Available,None,Alive,"Spear, small blades",Not Available,Not Available,"Daughter of Howland Reed, a warrior of the Neck with mud in her veins and fire in her heart.
+She bore Bran Stark through snow, shadow, and sorrow, fighting wights and guiding visions.
+She lost her brother, her youth, and her place in the world—but never her strength.
+When her task was done, she returned home, a ghost of a girl who once saved a king.",,
+CH147,Meereen citizen,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Various,Not Available,Meereen,Not Available,"Cogs in a rusted empire, their lives were shaped by pyramids and chains. They watched their city burn, rise, and burn again under queen and tyrant alike — free, yet never truly safe.",,
+CH148,Meereen slave,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Various,Improvised weapons,Meereen,Not Available,"For generations, they toiled beneath whips and pyramids, nameless cogs in Meereen’s cruel machine.
+When Daenerys came, they saw a silver-haired storm wielding dragons and justice.
+They rose, some in hope, some in blood.
+Freedom came not with ease, but in fire.
+Some became rulers, others rebels. But none remained slaves.",,
+CH149,Meereen slave master,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Various,Not Available,Meereen,Not Available,"Rulers of ancient cruelty, they cloaked themselves in silk while thousands sweated beneath their whips. Daenerys brought their world crashing down, pyramid by pyramid, blood by blood.",,
+CH150,Meereen slaves,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Various,Improvised weapons,Meereen,Not Available,"For generations, they toiled beneath whips and pyramids, nameless cogs in Meereen’s cruel machine.
+When Daenerys came, they saw a silver-haired storm wielding dragons and justice.
+They rose, some in hope, some in blood.
+Freedom came not with ease, but in fire.
+Some became rulers, others rebels. But none remained slaves.",,
+CH151,"Melisandre ""the Red Woman"" of Asshai",Human..,Not Applicable,Not Available,None,None,None,Dead,"Magic, shadow assassin, fire",Outside Winterfell,Renly Baratheon,"A priestess cloaked in flame, Melisandre walked with shadows and spoke in riddles.
+She saw visions in fire and shaped kings with prophecy.
+She burned children, summoned shadows, and raised the dead.
+To some, she was a savior. To others, a curse.
+But when the Long Night came, she walked into the dawn, spent and silent, her final prophecy fulfilled.",,
+CH152,Member of the Thirteen,Human,Council of Thirteen,Not Available,Not Available,Not Available,Not Available,Various,Not Available,Meereen,Not Available,"Councilman of Qarth, veiled in opulence and suspicion. Each held influence over the greatest port in Essos, though their masks could not shield them from betrayal or dragons.",,
+CH153,Mero,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Meereen,Not Available,"Called the Titan’s Bastard, he led the Second Sons with drink and depravity. His arrogance cost him command — and his head — when Daenerys found no room for scoundrels in her army.",,
+CH154,Meryn Trant,Human,House Trant,Not Available,Not Available,Not Available,Not Available,Dead,Sword,Braavos,Syrio Forel,"A knight in name only, Meryn Trant served kings and beat girls. He struck Sansa Stark and murdered the innocent at Joffrey’s whim.
+He sought pleasure in pain and power in silence.
+When Arya Stark found him in Braavos, she made him see what blindness truly meant.
+He died in darkness, stabbed again and again, until the blood silenced his screams.",,
+CH155,Mirri Maz Duur,Human,Lhazareen,Not Available,Not Available,Not Available,Not Available,Dead,"Dark magic, poison",Vaes Dothrak,Drago,"A healer and a witch, Mirri Maz Duur bore knowledge both ancient and accursed.
+She saved Drogo’s life by ending it, traded his soul for stillborn dragons.
+She sang in tongues, cursed in riddles, and smiled as the world unraveled around her.
+She taught Daenerys her first lesson in fire: that life comes only with sacrifice.",,
+CH156,Missandei,Human,Naathi,Not Available,Grey Worm (symbolic),None,None,Dead,Not Available,King's Landing,Not Available,"Once a slave, always a voice of peace. From the slavers' block to Daenerys’s side, Missandei carried wisdom in every word — until her final word was the last thing Grey Worm ever heard her say.",,
+CH157,Mormont Soldier,Human,House Mormont,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,The Wall,Not Available,"One of Lady Maege Mormont’s kin, loyal to the North and bear-born. Their house fought with honor, even as its members dwindled like old embers in the long winter.",,
+CH158,Mycah,Human,None,Butcher (father),None,None,None,Dead,Not Available,Riverlands,Not Available,"The butcher’s boy who dreamed of knighthood. Wrong place, wrong time — cut down by the Hound for a prince’s pride. His death was the first crack in Sansa’s fantasy and Arya’s innocence.",,
+CH159,Myranda Royce,Human,House Royce,Yohn Royce,Not Available,None,None,Alive,Not Available,Winterfell,Not Available,"Lady of Runestone and cousin to the Vale. Sharp-tongued and observant, Myranda played the game of nobles from the periphery, always watching — never forgetting.",,
+CH160,Myrcella,Human,House Baratheon,Jaime Lannister & Cersei Lannister,"Joffrey, Tommen",None,None,Dead,Not Available,Dorne,Not Available,"The golden girl of House Lannister, sweet and naïve. Sent to Dorne as a pawn for peace, she found love but lost her life to poison — a princess whose tragedy was quieter than most.",,
+CH161,Ned Stark,Human,House Stark,Lord Rickard Stark and Lady Lyarra Stark,"Brandon Stark, Benjen Stark, and Lyanna Stark",Catelyn Stark,"Robb, Sansa, Arya, Bran, Rickon, Jon Snow (claimed, not biological)",Dead,Ice – Valyrian steel,"Great Sept of Baelor, King's Landing",Arthur Dayne,"Warden of the North, hand of the king, and father of wolves.
+Eddard Stark was honor made flesh, the last man in Westeros who still believed in truth.
+He brought justice to chaos and paid for it with his head.
+His death broke the realm and lit the spark of war.
+But his legacy lived on—in the snows of Winterfell, in the hearts of his children, and in the silence of his final word.",,
+CH162,Ned Umber,Human,House Umber,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Winterfell,Not Available,"The Greatjon's heir, a boy cast into war too soon. Betrayed by the Boltons, his twisted end on the wall of Winterfell was a macabre warning to the living from the dead.",,
+CH163,Night King,Undead,White Walker,Not Available,Not Available,Not Available,None,Dead,"Ice spear, ice sword","Godswood, Winterfell","Viserion, Theon Greyjoy","He was never named, never crowned. The Night King was death given purpose, the cold made flesh.
+Forged by the Children of the Forest, he turned upon his makers and marched upon the living.
+He raised armies with a gesture, shattered men with silence.
+But in the end, it was not steel or fire that slew him—it was a girl with no name, and a blade of ancient steel.",,
+CH164,Night's Watch brother,Human,Night's Watch,Not Available,Not Available,None,None,Dead,Sword or dragonglass,Various,Not Available,"Bound by oath, clad in black, they watched while others lived.
+They fought wildlings, wights, and themselves. Some were criminals, others broken men seeking purpose.
+They stood on the edge of the world and held the line—until it held them no longer.
+Many died unknown. But their vigil shaped the fate of kings.",,
+CH165,Night's Watch mutineer,Human,Night's Watch,Not Available,Not Available,None,None,Dead,Sword or daggers,Craster's Keep,Not Available,"Oathbreakers and murderers, they slit the throat of their Lord Commander beneath the moon.
+They feared change more than death.
+But vengeance came swiftly, cloaked in wolf and fire.
+Their names are dust, and the Wall forgets traitors.",,
+CH166,Night's Watch recruit,Human,Night's Watch,Not Available,Not Available,None,None,Dead,Not Available,The Wall,Not Available,"Bound in black, but not always by choice. Many came to the Wall seeking redemption or fleeing justice. Few found glory; most found death. All left their names behind.",,
+CH167,None,None,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,"Not all stories are told. Not all names are remembered.
+Some die in silence. Some never lived at all.
+But the realm turns still, and the space they leave behind echoes louder than their deeds.",,
+CH168,Nymeria Sand,Human,Sand Snakes,Oberyn Martell,Sand Snakes,None,None,Dead,Not Available,Crownlands,Not Available,"One of Oberyn Martell’s bastard daughters — the Sand Snakes. Deadly with a whip and sharper of tongue, she fought for vengeance and Dornish pride, until Cersei’s dungeon silenced her legacy.",,
+CH169,Obara Sand,Human,Sand Snakes,Prince Oberyn Martell and an Oldtown whore,"Nymeria Sand, Tyene Sand, and other Sand Snakes​",Not Available,None,Dead,Spear,Crownlands,Not Available,"Daughter of Oberyn Martell, fierce and furious. She wielded her spear with the rage of a bastard unrecognized, a warrior born of war.
+She sought vengeance for her father and helped bring ruin to Dorne.
+But vengeance burns without care, and Obara died by the same blade she lived by—struck down in silence, remembered in wrath.",,
+CH170,Oberyn Martell,Human,House Martell,Not Available,"Doran Martell, Elia Martell",Ellaria Sand,8 daughters (Sand Snakes),Dead,Not Available,Dorne,Not Available,"The Red Viper of Dorne — lover, fighter, poet of poison. His duel with the Mountain became legend: a dance of vengeance, a tale of triumph turned horror in one brutal crush.",,
+CH171,Olenna Tyrell,Human,House Tyrell,Lord Runceford Redwyne,Viola Redwyne​,Not Available,Luthor Tyrell (implied),Dead,Poison and Sass,Highgarden,Not Available,"The Queen of Thorns, sharp of tongue and sharper of wit.
+Lady Olenna moved through court like a blade in a bouquet, cutting down fools and flatterers alike.
+She loved her family fiercely and would burn kingdoms to protect them.
+When her time came, she drank poison and smiled—then confessed to killing a king.
+She died as she lived: unbowed, unbroken, unforgettable.",,
+CH172,Olly,Human,None,Unnamed parents (killed by Wildlings),None,None,None,Dead,Crossbow,Castle Black,Ygritte,Young boy whose family is slaughtered by wildlings. Betrays and kills Jon Snow,,
+CH173,Olly's mum,Human,None,Not Available,Not Available,Not Available,Olly,Dead,Not Available,Gift,Not Available,"A mother of the Gift, slain by wildlings under Tormund’s banner. Her death lit the fire of vengeance in her son, stoking the blade that would one day pierce Jon Snow’s heart.",,
+CH174,Orell,Human,Free Folk,Not Available,Not Available,None,None,Dead,Not Available,Beyond the Wall,Not Available,"A wildling skinchanger, bound more to his eagle than his kin. Suspicious of Jon Snow and rightfully so, his death came with betrayal on his lips and hatred in his eyes.",,
+CH175,Osha,Human,Free Folk,Not Available,Not Available,None,None,Dead,Knife or short blade,Winterfell,Not Available,Hot Wildling Chick,,
+CH176,Oswell Whent,Human,House Whent,Not Available,Not Available,Not Available,None,Dead,Sword (Kingsguard),Tower of Joy,Not Available,Member of the Kingsguard under Aerys II (the Mad King).,,
+CH177,Othell Yarwyck,Human,Night's Watch,Not Available,Not Available,None,None,Dead,Not Available,Castle Black,Not Available,"The master builder of the Night’s Watch — steady, practical, loyal. He voted against Jon’s wildling alliance, and though he betrayed his Lord Commander, he met his fate with grim resolve.",,
+CH178,Othor,Human,ex.Night's Watch,Not Available,Not Available,None,None,Undead,Not Available,Beyond the Wall,Not Available,"Once a ranger of the Night’s Watch, his corpse rose under the Night King’s will. His icy attack was one of the first signs of the dead’s return — a whisper of the storm to come.",,
+CH179,Peasant,Human,None,Not Available,Not Available,Not Available,Not Available,Dead,Farming tools,Various,Not Available,Common citizen of Westeros,,
+CH180,Peasants,Human,None,Not Available,Not Available,Not Available,Not Available,Dead,Farming tools,Various,Not Available,Common citizens of Westeros,,
+CH181,Petyr Baelish,Human,House Baelish,Lord Baelish,Not Available,Not Available,None,Dead,"Dagger, manipulation",Winterfell,Not Available,"Little Finger, Lord of coin, master of whispers, spider of ambition. Petyr Baelish rose from nothing with a smile and a dagger behind his back.
+He sowed the seeds of war, betrayal, and chaos—for in chaos, he climbed.
+He loved Catelyn Stark, and when he could not have her, he twisted the world to destroy her family.
+But the North remembers. And Sansa Stark watched the web from within.
+When it was time, she cut the spider down with his own lies.",,
+CH182,Pigeon,Pigeon,Animal,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Not Available,Not Available,"Meek denizens of the capital, scavenging between slaughters. Beasts of habit, they became symbols of starvation and survival during King’s Landing’s darkest days.",,
+CH183,Podrick Payne,Human,House Payne,Not Available,Not Available,None,None,Alive,Sword,Winterfell,Ser Mandon Moore,"Squire to knights and a knight in spirit, Podrick Payne was loyalty wrapped in awkward armor.
+He stood beside Tyrion, Brienne, and honor itself, surviving battles with more heart than skill.
+He killed when needed, sang when asked, and guarded a dream that knighthood still meant something.
+At war’s end, he rode into legend—not as a hero, but as one who helped them live.",,
+CH184,Polliver,Human,None,Not Available,Not Available,None,None,Dead,Needle,Riverlands,Lommy Greenhands,"A Lannister man with a cruel streak and a longer sword.
+He took Arya’s sword, Needle, and her innocence in one swing.
+He mocked, killed, and rode through the Riverlands like a petty lord of suffering.
+But names have power, and Arya whispered his into the dark.
+She took back Needle—and his life—with quiet vengeance.",,
+CH185,Prendahl na Ghezn,Human,Second Sons,Not Available,Not Available,None,None,Dead,Not Available,Astapor,Not Available,"Captain of the Stormcrows, greedy and arrogant. He refused Daenerys’s offer and paid the price when Daario presented his head along with his loyalty.",,
+CH186,Prisoner,Human,None,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Yunkai,Not Available,"Nameless, faceless, and forgotten. Whether shackled beneath Red Keep or held by wildlings, their stories are lost to the silence of stone and time.",,
+CH187,Pyat Pree,Human,Warlock of Qarth,Not Available,Not Available,None,None,Dead,"Sorcery, illusions",Qarth,Not Available,"A warlock of Qarth, his lips blue with magic and deceit.
+He offered illusions, whispered prophecy, and sought to bind dragons in chains.
+His tower of shadows turned to ash when Daenerys saw through the trickery.
+He burned with a scream like parchment catching flame—proof that magic without wisdom ends in smoke.",,
+CH188,Pypar,Human,Night's Watch,Not Available,Not Available,None,None,Dead,Sword,Castle Black,Not Available,"Called Pyp, he was small of frame but great of loyalty.
+He laughed through fear, followed Jon Snow through frost and flame, and died at the Wall defending the realm.
+A boy from the streets, he died a man of the Night’s Watch.
+And the Watch remembers.",,
+CH189,Qhorin Halfhand,Human,Night's Watch,Not Available,Not Available,None,None,Dead,Sword,Fist of the First Men,Not Available,"A ranger of legend, cold as stone and just as resolute.
+He taught Jon Snow what it meant to be loyal to the living, not the law.
+When capture meant compromise, he chose death—and made Jon his executioner.
+He fell with honor, and rose in memory as the man who saved the Watch from within.",,
+CH190,Qotho,Human,Dothraki,Not Available,Not Available,None,None,Dead,Not Available,Vaes Dothrak,Not Available,"A bloodrider of Khal Drogo, fierce and unforgiving. His refusal to bow to sorcery cost him his life — cut down by Jorah’s steel, his death sealed Drogo’s fate.",,
+CH191,Qyburn,Human,None,Not Available,Not Available,None,None,Dead,Experimentation,Qyburn's Laboratory,Not Available,"Once a maester, stripped of chain and title for dark experiments.
+Qyburn cared not for life, only what it could endure.
+He stitched the Mountain into a monster, whispered into queens’ ears, and made death walk again.
+His science outlived his soul—until Cersei’s world crumbled, and his creations turned on him.",,
+CH192,Rakharo,Human,Dothraki,Not Available,Not Available,None,None,Dead,Not Available,Vaes Dothrak,Not Available,"A loyal Dothraki rider to Daenerys, fierce in battle and faithful in heart. His death was a cruel message from rival khals — his head returned in a pouch, his honor intact but body defiled.",,
+CH193,Ralf Kenning,Human,Ironborn,Not Available,Not Available,None,None,Dead,Not Available,Torrhen's Square,Not Available,"A knight of House Kenning of Kayce. Present at the siege of Meereen, his minor role in great events proved that not all knights are sung of — some simply die forgotten.",,
+CH194,Ramsay Bolton,Human,House Bolton,Roose Bolton,Not Available,Sansa Stark (Annulled),None,Dead,Torture tools,Winterfell,"Roose Bolton, Rickon Stark","The Bastard of Bolton, dread made flesh.
+He flayed for sport, hunted women, broke men with hounds and smiles.
+He claimed Winterfell with terror, wed Sansa Stark in horror, and ruled with madness.
+But even monsters meet wolves. And in the end, his own beasts devoured him—master turned meat.",,
+CH195,Randyll Tarly,Human,House Tarly,Not Available,Not Available,Melessa Florent,"Samwell Tarly, Dickon Tarly",Dead,Not Available,Horn Hill,Not Available,"Lord of Horn Hill, father to Sam, and wielder of the ancestral greatsword Heartsbane. Ruthless in discipline and tradition, his pride burned with him when Daenerys brought dragonfire to justice.",,
+CH196,Rast,Human,Night's Watch,Not Available,Not Available,None,None,Dead,Crossbow,Craster's Keep,Not Available,"A coward behind blades, cruel to the weak.
+He tormented Samwell, mocked Jon, and betrayed the Night’s Watch.
+At Craster’s Keep, he drank blood and pretended it was power.
+Ghost found him, and justice tore out his throat.",,
+CH197,Rat,Rat,None,Not Available,Not Available,None,None,Dead,Not Available,Winterfell,Not Available,"A symbol of plague and decay, rats scurried through the dark corners of cities and keeps alike, thriving on the spoils of human conflict. Ever-present, ever-feared.",,
+CH198,Razdal mo Eraz,Human,Yunkai noble,Not Available,Not Available,None,None,Dead,Not Available,Meereen,Not Available,"A self-important envoy from Yunkai, clad in silks and arrogance. He offered gold for peace, but Daenerys gave him only fire and chains. His fate was sealed by defiance.",,
+CH199,Reek,Human,House Greyjoy,Balon Greyjoy and Alannys Harlaw,"Rodrik, Maron, and Yara House Greyjoy",Not Available,None,Dead,None,Winterfell,Not Available,"He was Theon, once. Proud, foolish, House Greyjoy.
+Then Ramsay broke him—mind, body, name.
+As Reek, he trembled, obeyed, survived. But deep in the ash, a spark remained.
+He saved Sansa, found courage, and died for the Starks—half-forgiven, half-free.",,
+CH200,Renly Baratheon,Human,House Baratheon,Steffon Baratheon & Cassana Estermont,"Robert, Stannis",Margaery Tyrell,None,Dead,Not Available,Storm's End,Not Available,"Youngest Baratheon brother, charming and beloved. His dreams of kingship were snuffed out by a shadow with Stannis’s face, leaving behind a ghost of what might have been.",,
+CH201,Rennick,Human,House Lannister,Not Available,Not Available,None,None,Dead,Not Available,Not Available,Not Available,"A minor character lost among major players, often listed among the dead with little tale to tell. A thread in the larger tapestry of Westeros.",,
+CH202,Rhaegal,Human,Dragon,Daenerys Targaryen (Mother),"Drogon, Viserion",None,None,Dead,Not Available,Dragonstone,Not Available,"One of Daenerys's dragons, green and fierce. Rhaegal soared above battlefields and burned enemies to ash until a scorpion bolt from Euron's fleet sent him crashing into the sea.",,
+CH203,Rhaego,Human,House Targaryen,Daenerys Targaryen & Khal Drogo,None,None,None,Dead,Not Available,Vaes Dothrak,Not Available,"The unborn son of Daenerys and Khal Drogo. Destined to be the Stallion Who Mounts the World, his life ended before it began, claimed by blood magic and grief.",,
+CH204,Rickard Karstark,Human,House Stark,Not Available,Not Available,Not Available,"Harrion, Torrhen, Eddard Karstark",Dead,Sword,Karhold,Martyn Lannister,"A lord of the North, cold and vengeful.
+When Lannisters killed his kin, he murdered boys in return.
+Robb Stark executed him for it, knowing it would cost him the war.
+Rickard died with honor in his eyes and vengeance in his heart.",,
+CH205,Rickon Stark,Human,House Stark,Eddard Stark & Catelyn Stark,"Robb, Sansa, Arya, Bran, Jon (half)",None,None,Dead,Not Available,Winterfell,Not Available,"The youngest wolf, wild and untrained. Captured and betrayed, he met his end on a Bolton arrow, running for freedom across a field where mercy was never offered.",,
+CH206,Rival Dothraki,Human,Dothraki,Not Available,Not Available,None,None,Dead,Arakh,Vaes Dothrak,Not Available,Generic title for Dothraki who challenge Daenerys or are part of opposing khalasars.,,
+CH207,Robb Stark,Human,House Stark,Eddard Stark & Catelyn Stark,"Sansa, Arya, Bran, Rickon",Talisa Maegyr,None (in show),Dead,Sword,The Twins,Lannister soldiers,"Young Wolf, crowned in the North, led by justice—and slain by betrayal.
+He never lost a battle, but he lost the war to love and pride.
+He married for his heart, not his house, and paid with his life.
+At the Red Wedding, they killed him, his queen, his wolf.
+But the North remembers.",,
+CH208,Robert Baratheon,Human,House Baratheon,Steffon Baratheon & Cassana Estermont,"Stannis, Renly",Cersei Lannister,"Joffrey, Myrcella, Tommen (assumed)",Dead,Not Available,King's Landing,Rhaegar Targaryen,"The usurper king, once a hammer in rebellion, now a bloated shadow of glory. Gored by a boar, he died with wine on his breath and regrets in his heart.",,
+CH209,Robert Baratheon's illegitimate son (Barra),Human,House Baratheon,Robert Baratheon,None,None,None,Dead,Not Available,Flea Bottom,Not Available,"A babe born of fleeting lust, innocent and unaware. Slain in the purge of Robert's bastards, her tiny life snuffed out in a bed of betrayal.",,
+CH210,Rodrik Cassel,Human,House Cassel,Not Available,Martyn Cassel,Not Available,None,Dead,Sword,Winterfell,Not Available,"A loyal sword, older than most, but sharper than many.
+He served House Stark with beard and bellow, training boys to be men.
+When Theon betrayed Winterfell, Rodrik refused to kneel.
+He died on his knees, not in surrender, but defiance.",,
+CH211,Roose Bolton,Human,House Bolton,Not Available,Not Available,Walda Frey (granddaughter of Walder Frey),Ramsay Bolton,Dead,Dagger,Not Available,Not Available,"Lord of the Dreadfort, Warden of the North after betraying the Starks (Red Wedding).",,
+CH212,Rorge,Human,None,Not Available,Not Available,None,None,Dead,Not Available,Castle Black,Not Available,"A grotesque criminal, brutal and foul. Known for his violence and lack of nose, he terrorized the innocent until Arya struck him down with Needle.",,
+CH213,Ros,Human,None,Not Available,Not Available,None,None,Dead,Not Available,King's Landing,Not Available,"A Northern girl turned courtesan in King’s Landing. Caught in the web of Littlefinger and the Lannisters, she rose swiftly and died cruelly, a pawn to the end.",,
+CH214,Sam Tarly,Human,House Tarly,Randyll Tarly and Melessa Florent,Dickon Tarly and Talla Tarly,Not Available,"Samwell (Baby Sam, adopted)",Alive,Dragonglass,The Wall,White Walker,Bookish and kind brother of the Night’s Watch,,
+CH215,"Sandor ""The Hound"" Clegane",Human,House Clegane,Not Available,Gregor Clegane,Not Available,None,Alive,Greatsword,King's Landing,"Mycah, Beric Dondarrion, Biter, Gregor ""The Mountain"" Clegane","A hound of fire, born scarred, lived bitter.
+He killed for kings, spat on knights, and found a soul in protecting Arya.
+He ran from fire, then walked into it.
+At King’s Landing, he faced his brother, a monster born of the same house.
+They fell together, fire consuming what steel could not.",,
+CH217,Second Sun Mercenary,Human,Second Sons,Not Available,Not Available,None,None,Dead,Not Available,Meereen,Prendahl na Ghezn,"A blade for hire in a company sworn to coin, not cause. Many died when they chose gold over dragons and faced Daenerys's wrath.",,
+CH218,Selyse Florent,Human,House Florent,Not Available,Ser Imry Florent,Not Available,Shireen Baratheon,Dead,Not Available,Castle Black,Not Available,"Queen to Stannis, mother to Shireen, but lover only to fire.
+She worshipped the Lord of Light with fanatic devotion.
+When her daughter burned at the stake, her faith cracked—and she hanged herself beneath a cold sky.
+Her gods answered nothing.",,
+CH219,Septa Mordane,Human,None,Not Available,Not Available,None,None,Dead,Not Available,King's Landing,Not Available,A stern but kind instructor to the Stark girls. Her lessons in courtesy could not save her from Lannister swords when the crown changed hands.,,
+CH220,Ser Hugh of the Vale,Human,House of Arryn,Not Available,Not Available,None,None,Dead,Not Available,The Reach,Not Available,"A knight newly made, his pride as sharp as his lance. He died in a tourney, blood gurgling from a punctured throat, a lesson in hubris.",,
+CH221,Shae,Whore,None,Not Available,Not Available,None,None,Dead,Not Available,King's Landing,Not Available,"Tyrion's lover turned betrayer. Her love, real or feigned, ended in a golden shroud as she was strangled by the man she once called ""my lion.""",,
+CH222,Shaggydog,Direwolf,House Stark,Not Available,"Grey Wind, Lady, Nymeria, Summer, and Ghost",Not Available,Not Available,Dead,"Teeth, claws",Winterfell,Not Available,Rickon Stark's aggressive and protective direwolf.,,
+CH223,Shireen Baratheon,Human,House Baratheon,Stannis Baratheon & Selyse Florent,None,None,None,Dead,Not Available,Dragonstone,Not Available,"A gentle soul with a scarred face, lover of books and Davos. Burned alive by her own father in sacrifice, her death turned banners to ash.",,
+CH224,Smalljon Umber,Human,House Umber,Greatjon Umber,Not Available,Not Available,None,Dead,Sword,Winterfell,Not Available,"Big of body, louder of mouth. The Smalljon once pledged to the Boltons, handing over Rickon Stark.
+But loyalty to monsters wins no battles.
+He died at the Battle of the Bastards—torn down by wildlings, forgotten by his own.",,
+CH225,Snake,Snake,Animal,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Not Available,Not Available,"A silent slither in the shadows, feared in many forms. Whether symbol or threat, it served as both omen and assassin.",,
+CH226,Sons of the Harpy agent,Human,Sons of the Harpy,Not Available,Not Available,None,None,Dead,"Knives, short blades",Meereen,Not Available,Anti-Daenerys insurgent in Meereen,,
+CH227,Stableboy,Human,None,Not Available,Not Available,None,None,Dead,Not Available,Winterfell,Not Available,"An innocent with straw-stained hands, caught in a tide of blood. His death, swift and unworthy of song, was another echo of war's cruelty.",,
+CH228,Stag,Stag,Animal,Not Available,Not Available,Not Available,Not Available,Dead,Antlers,Not Available,Not Available,"The symbol of House Baratheon, wild and proud.
+A stag felled Robert, a stag crowned Joffrey, a stag burned with Stannis.
+It stood for fury—righteous, reckless, royal.
+Now, it’s just a sigil on empty banners.",,
+CH229,Stannis Baratheon,Human,House Baratheon,Steffon & Cassana Baratheon,"Robert, Renly",Selyse Florent,Shireen Baratheon,Dead,Sword - Lightbringer,Outside Winterfell,Renly Baratheon,"The one true king claimant. Duty was his god, law his blade.
+Stannis, rightful heir, rightful fool.
+He burned his daughter for the war, marched on Winterfell in snow and silence.
+His army crumbled, his queen died, and Brienne of Tarth brought justice to his stubborn bones.",,
+CH230,Stark Soldier,Human,House Stark,Not Available,Not Available,None,None,Dead,Sword,Not Available,Not Available,"Men of the North, sons of snow and stone.
+They followed Robb to war, died at the Twins, and rose again for Jon Snow.
+They fight not for power, but for the name Stark—and that name does not fall.",,
+CH232,Stark staff member,Human,House Stark,Not Available,Not Available,None,None,Dead,Not Available,Winterfell,Not Available,"Anonymous faces behind the Stark name, loyal to Winterfell. Some died in Theon’s betrayal, others in the battle to reclaim their home.",,
+CH233,Stiv,Human,Free Folk,Not Available,Not Available,None,None,Dead,Not Available,Winterfell,Not Available,"A wildling scout, fierce and fleeting. He perished in the shadow of the Wall, one of many swallowed by the frozen North.",,
+CH234,Stone Man,Human,Former Human,Not Available,Not Available,None,None,Dead,Not Available,Valyria,Not Available,"Afflicted with greyscale, exiled to the ruins of Valyria. Once men, now monsters in tattered flesh, they live only to spread their curse.",,
+CH235,Styr,Human,House Thenn,Not Available,Not Available,None,None,Dead,Axe,Castle Black,Not Available,"Magnar of Thenn, a war-chief of bone and flame.
+He led cannibal clans through the Wall, savage in battle, silent in death.
+He fought Jon Snow and met his end at the gates of Castle Black—his skull cracked like stone.",,
+CH236,Summer,Direwolf,House Stark,Not Available,"Grey Wind, Lady, Nymeria, Shaggydog, and Ghost",Not Available,Not Available,Dead,"Teeth, claws",North of the Wall,Not Available,"Bran’s wolf, swift and silent.
+He saw through Summer’s eyes, ran in his body, fled into the dark.
+At the cave of the Three-Eyed Raven, Summer stood alone against death.
+He died so the future could live.",,
+CH237,Syrio Forel,Human,Braavosi,Not Available,Not Available,None,None,Unknown,Not Available,King's Landing,Not Available,"The First Sword of Braavos, dancing master to Arya Stark. Whether dead or surviving in legend, his wooden blade defied steel with grace.",,
+CH238,Talisa Stark,Human,House Maegyr,Not Available,Not Available,Robb Stark,Unborn child,Dead,Not Available,The Twins,Not Available,"A healer turned queen, she brought love to Robb Stark. Her unborn child and her life were ended in the Red Wedding’s cruel crescendo.",,
+CH239,Tansy,Human,None,Not Available,Not Available,None,None,Dead,Not Available,Not Available,Not Available,"A girl mentioned in dark whispers and cruel memories, her name a scar upon the pasts of those who wronged her.",,
+CH240,The Copper King,Human,Qarth Merchant,Not Available,Not Available,None,None,Dead,Not Available,Qarth,Not Available,"A merchant prince of Qarth, clad in shining wealth. One of the Thirteen, his ambition met dragonfire in Daenerys’s purge.",,
+CH241,The Masters Soldier,Human,Slaver,Not Available,Not Available,None,None,Dead,Sword or spear,Meereen,Not Available,"Clad in polished bronze, obedient to cruelty.
+They fought to keep chains on throats and coins in coffers.
+When Daenerys came, they died screaming under dragonfire.
+No names, no graves—only ash.",,
+CH242,The Silk King,Human,Qarth Merchant,Not Available,Not Available,None,None,Dead,Not Available,Qarth,Not Available,"Refined and scheming, a ruler of commerce. His silky robes could not shield him from the wrath of a queen tired of masks.",,
+CH243,The Silver,Human,Horse,Not Available,Not Available,Not Available,Not Available,Unknown,Not Available,Qarth,Not Available,"A Dothraki steed of legend, gifted to Daenerys. Graceful and proud, it carried a khaleesi into battle and prophecy.",,
+CH244,The Spice King,Human,Qarth Merchant,Not Available,Not Available,None,None,Dead,Not Available,Qarth,Not Available,"One of Qarth’s elite, bold in word but cowardly in deed. He mocked Daenerys, only to be consumed by the fire he doubted.",,
+CH245,The Tickler,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,"Torture tools, knife",Harrenhal,Not Available,"A torturer of Harrenhal, fond of questions and screams.
+He asked where gold was hidden and flayed those who could not answer.
+Arya remembered.
+She whispered his name to death—and he died twitching, unknowing why.",,
+CH246,Thenn raider,Human,Thenn,Not Available,Not Available,Not Available,Not Available,Dead,Primitive weapons,Castle Black,Not Available,"Bald, branded, brutal.
+The Thenns raided with bone weapons and boiled flesh.
+They marched with Mance, fell at Castle Black, and bled beneath Jon’s sword.
+Savage, but not forgotten.",,
+CH247,Theon Greyjoy,Human,House Greyjoy,Balon Greyjoy and Alannys Harlaw,"Rodrik, Maron, and Yara Greyjoy",None,None,Dead,"Sword, crossbow",Winterfell,Rodrik Cassel,"Prince of Pyke, ward of Stark, traitor of both.
+He burned Winterfell, lost himself, became Reek.
+But even ash remembers fire.
+He saved Sansa, fought the dead, and died protecting Bran.
+He died a Stark, not a House Greyjoy—and that made all the difference.",,
+CH248,Thoros,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Winterfell,Not Available,"Thoros A red priest with a flaming sword and a heart that doubted. He brought Beric back from death again and again, until his own flame flickered out.",,
+CH249,Three-eyed Raven,Seer,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,King's Landing,Not Available,"The seer beyond time, once a man, now memory incarnate. He guided Bran through visions and fate, a living whisper of the old gods.",,
+CH250,Tommen Baratheon,Human,House Targaryen,Cersei Lannister and Jaime Lannister,Joffrey and Myrcella Baratheon,None,None,Dead (suicide),suicide,Castle Black,Not Available,"A boy-king caught in a crown too heavy.
+Kind, soft-spoken, swayed by mother, wife, and Faith.
+When Cersei burned the Sept, he stepped from the window—peaceful as a falling leaf.
+He ruled nothing, not even his own fate.",,
+CH251,Tormund Giantsbane,Human,Giantsbane,Not Available,Not Available,Not Available,Not Available,Alive,"Axe, Melee",Winterfell,Not Available,"A wildling with a giant’s name and a heart bigger still.
+He laughed through blood, fought for freedom, and followed Jon Snow into the cold.
+They said he lay with bears and bathed in snow.
+He lived because he knew when to fight—and when to laugh.
+The fire in him never died.",,
+CH252,Torrhen Karstark,Human,House Karstark,Rickard Karstark,Not Available,Not Available,Not Available,Dead,Not Available,Winterfell,Not Available,"Son of Rickard Karstark, lost in vengeance and war. His name faded with his house, a footnote in the fall of the North.",,
+CH253,Tribesman,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Primitive weapons,Winterfell,Not Available,"Hill clans, savage in name, savage in life.
+They fought for the highest bidder—Tyrion bought their loyalty with blood and gold.
+When war ended, they vanished back to the hills, richer and louder than ever.",,
+CH254,Trystane Martell,Human,House Martell,Doran Martell,Not Available,Not Available,Not Available,Dead,Not Available,Dorne,Not Available,"Prince of Dorne, gentle and diplomatic. Slain by the Sand Snakes, his dreams of union with Myrcella ended in blood on a ship.",,
+CH255,Tyene Sand,Human,Sand Snakes,Prince Oberyn Martell and an unnamed septa,Other Sand Snakes (half-sisters),Not Available,None,Dead,"Daggers, poison",Dorne,Maester Caleotte,"Youngest of the Sand Snakes, lovely and lethal.
+She smiled with poison on her lips, striking with kindness and cruelty alike.
+In Cersei’s dungeon, chained beside her dying mother, she learned the taste of silence.
+She died slowly—without touch, without air, without mercy.",,
+CH256,Tyrion Lannister,Human (Dwarf),House Lannister,Tywin Lannister and Joanna Lannister,"Cersei Lannister, Jaime Lannister",Not Available,None,Alive,Crossbow,King's Landing,"Shae, Tywin Lannister","The Imp. The Halfman. The lion with the mind of a dragon.
+He drank, he schemed, he spoke truths no one wanted to hear.
+He killed his father, freed his brother, and counseled queens.
+He saved cities and burned bridges.
+In the end, he chose peace over vengeance—and survived them all.",,
+CH257,Tywin Lannister,Human,House Lannister,Tytos Lannister,"Kevan Lannister, Genna Lannister",Joanna Lannister,"Jaime, Cersei, Tyrion",Dead,Not Available,King's Landing,Not Available,"The lion of the Rock, architect of power. Killed on the privy by his own son, his death broke the spine of Lannister dominance.",,
+CH258,Umber Soldier,Human,House Umber,Not Available,Not Available,Not Available,Not Available,Dead,Sword,Winterfell,Not Available,"From the Last Hearth, hard as the ground they tilled.
+They fought for Stark, then Bolton, then death itself.
+When the Night King came, they fell—children pinned to walls, bodies burned.
+But the North remembers even the betrayed.",,
+CH259,Unamed Dwarf,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Volantis,Not Available,"Mocked and misused in cruel jests, a shadow of Tyrion's stature. Slain for spectacle, forgotten in purpose.",,
+CH260,Unborn Stark child,Human,House Stark,"Robb Stark, Talisa Stark",Not Available,Not Available,Not Available,Dead,Not Available,Winterfell,Not Available,"Never saw winter, nor name, nor love. A casualty of treachery in a mother’s womb, lost to the Red Wedding’s final betrayal.",,
+CH261,Undead Polar Bear,Undead Polar Bear,Not Available,Not Available,Not Available,Not Available,Not Available,Undead,"Teeth, claws",Beyond the Wall,Thoros,Reanimated polar bear used by the White Walkers; a deadly creature beyond the Wall.,,
+CH262,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,"Some names are lost. Some never spoken.
+But every grave holds a story, and every silence echoes louder than truth.
+They were. That is enough.",,
+CH263,Unsullied,Human (Unsullied),Not Available,Not Available,Not Available,Not Available,Not Available,Dead,"Spear, shield",Various,Sons of the Harpy,"Slaves once, warriors now.
+They marched without fear, without pause, without question.
+Daenerys gave them choice. They chose her.
+And when the fire ended, they sailed—not for conquest, but for peace.",,
+CH264,Unsullied Soldier,Human (Unsullied),Not Available,Not Available,Not Available,Not Available,Not Available,Dead,"Spear, shield",Meereen,Not Available,Generic term for soldiers from the Unsullied army (eunuch slaves trained for war).,,
+CH265,Vardis Egen,Human,House Egen,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Meereen,Not Available,"Sworn shield of the Vale. He died in single combat against Bronn, armored in honor, outmatched by cunning.",,
+CH266,Varys,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,The Eyrie,Not Available,"The Spider, master of whispers. He played the game better than most, but truth and loyalty cost him his life in dragonfire.",,
+CH267,Vayon Poole,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,King's Landing,Not Available,"Steward of Winterfell, father to Jeyne. Taken and killed in the purge following Ned Stark's downfall.",,
+CH268,Viserion,Dragon,House Targaryen,Daenerys Targaryen,Drogon and Rhaegal,None,Not Available,Undead,Fire/Ice breath,King's Landing,Not Available,"Named for a brother, born of fire, reborn in ice.
+Viserion died over the Wall, and rose with blue flame in his chest.
+He broke the Wall, led the dead, and fell to Arya’s knife through the Night King.
+A dragon of two deaths—each one more sorrowful than the last.",,
+CH269,Viserys Targaryen,Human,House Targaryen,"Aerys II Targaryen, Rhaella Targaryen","Rhaegar Targaryen, Daenerys Targaryen",None,None,Dead,Not Available,North of the Wall,Not Available,"The beggar king, cruel and desperate. Crowned with molten gold by Khal Drogo, he learned the hard way that true dragons do not burn.",,
+CH270,Walda Frey,Human,House Frey,Merrett Frey,Not Available,Roose Bolton,Ramsay Bolton (through marriage),Dead,Not Available,Vaes Dothrak,Not Available,"""Fat Walda,"" married to Roose Bolton. Her trust in her husband ended with Ramsay feeding her to his hounds.",,
+CH271,Walder Frey,Human,House Frey,Not Available,Not Available,Multiple wives,Many children,Dead,Not Available,King's Landing,The Red Wedding,"Lord of the Twins, architect of the Red Wedding. Slain by Arya, his legacy stained with treachery and blood.",,
+CH272,Walder Rivers,Human,House Frey (bastard),Walder Frey,Not Available,Not Available,Not Available,Dead,Sword,Winterfell,Not Available,"A bastard Frey, cunning and cruel.
+He served in the shadows of greater betrayals.
+Arya slit his throat before he could beg—and no one missed his name.",,
+CH273,Wallen,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,The Twins,Not Available,"A faceless soldier or servant in the game of thrones. His tale, if ever told, has faded into the silence of the dead.",,
+CH274,Waymar Royce,Human,House Royce,Yohn Royce,Robar Royce,None,None,Dead,Not Available,Riverlands,Not Available,Young and proud ranger of the Night's Watch. Met the White Walkers and died with fear freezing on his blade.,,
+CH275,White Rat,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Winterfell,Not Available,An Unsullied seeking solace in the brothels of Meereen. His death became a symbol of rebellion against Daenerys's reign.,,
+CH276,White Walker,Human,White Walkers,Not Available,Not Available,Not Available,Not Available,Dead,"Ice spear, sword",Beyond the Wall,Many humans,"Eyes of ice, touch of death.
+Born of men, twisted by magic.
+They marched in silence, shattered steel, and raised armies from dust.
+Only dragonglass and Valyrian steel could unmake them.
+And unmade they were.",,
+CH277,Wight,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Undead,Weapons of former selves,King's Landing,Not Available,"The dead don’t rest in the far North.
+They rise. Skin rotted, eyes blue, silent but relentless.
+Men, women, giants, even beasts—death made uniform.
+They are what waits when the fire fades.",,
+CH278,Wildling,Human,Free Folk,Not Available,Not Available,Not Available,Not Available,Dead,"Axes, bows, clubs",Various,Not Available,"Free Folk, unbowed by crown or wall.
+They hunted, loved, and died beyond the realm’s reach.
+To the South, they were savages. To each other, they were kin.
+They followed Mance Rayder, died for Jon Snow, and bled for freedom.",,
+CH279,Wildling Leader,Human,Free Folk,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Various,Not Available,"A nameless giant among the free folk. He led, he fought, he died — swallowed by the snow and remembered only in stories.",,
+CH280,Wildling giant,Human,Free Folk,Not Available,Not Available,Not Available,Not Available,Dead,"Clubs, fists",Various,Not Available,Giant allied with the Free Folk; participated in battles against the Night's Watch.,,
+CH281,Will,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Castle Black,Not Available,A ranger of the Night’s Watch. He witnessed the truth beyond the Wall and died for it at the hand of his own Lord Commander.,,
+CH282,Willem Lannister,Human,House Lannister,Kevan Lannister,Lancel Lannister,None,None,Dead,Not Available,Riverlands,Not Available,"A young captive of the Starks. Executed by Rickard Karstark, his death unraveled loyalties in Robb's camp.",,
+CH283,Wun Wun,Giant,Free Folk,Not Available,Not Available,Not Available,Not Available,Dead,Whatever is handy,Winterfell,Not Available,Giant who allied with the Free Folk and fought valiantly in the Battle of the Bastards.,,
+CH284,Xaro Xhoan Daxos,Human,Not Available,Not Available,Not Available,None,None,Dead,Not Available,Qarth,Not Available,A merchant prince of Qarth. He betrayed Daenerys and was locked in his vaults — a rich man suffocating on greed.,,
+CH285,Yara House Greyjoy,Human,House Greyjoy,Balon Greyjoy and Alannys Harlaw,"Rodrik Greyjoy, Maron Greyjoy, and Theon Greyjoy",Not Available,None,Alive,"Daggers, sword",King's Landing,Not Available,"Ironborn daughter, salt-slick and steel-hearted.
+She captained ships, saved Theon, and fought for her people.
+When Euron took her, she did not break.
+When Daenerys came, she offered her sails.
+She lived—a rare feat for a House Greyjoy—and ruled with grit, not gods.",,
+CH286,Ygritte,Human,Free Folk,Not Available,Not Available,None,None,Dead,Bow and arrow,Castle Black,Not Available,"A spearwife kissed by fire.
+She loved Jon Snow with blade and breath, and died whispering the truth he never stopped hearing.
+""You know nothing, Jon Snow.""
+And in her death, he learned everything.",,
+CH287,Yoren,Human,Night’s Watch,Not Available,Not Available,Not Available,None,Dead,Sword,Castle Black,None,"Recruitment ranger and brother of the Watch, grizzled and grim.
+He smuggled Arya to safety, protected the innocent with blade and bite.
+When Lannisters came, he fought until his body was riddled with bolts.
+He died standing, sword in hand.
+That’s the only death worth having.",,
+CH288,Yunkai soldier,Human,Yunkai,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Meereen,Not Available,"Fodder for dragons and revolution. They fought for slave masters and died by Unsullied blades. Guardians of chains and slavers, polished gold atop rotting hearts. They fell to Unsullied spears and dragonfire, their names lost in the sand. History remembers only the flame that freed their slaves.",,
+CH289,Zalla,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Dead,Not Available,Not Available,Not Available,"One of Craster’s many daughters, born into abuse and fear. Her life, like many of her sisters’, was a cry in the cold silence of the Haunted Forest.",,
+CH290,Drogon,Dragon,House Targaryen,Daenerys Targaryen,Rhaegal and Viserion,None,Not Available,Alive,Fire breath,Not Available,Not Available,"Last of the living flame. Black as night, fire incarnate.
+He carried Daenerys across oceans and skies, burned her enemies to ash, and melted the Iron Throne with one roar.
+When she died, he carried her into legend.
+Some say he still flies, a god among crows. Others say he vanished with her soul.",,
+CH291,Sansa Stark,Human,House Stark,"Ned Stark, Catelyn Stark","Arya Stark, Robb Stark, Jon Snow, Bran Stark, Rickon Stark",Tyrion Lannister and Ramsay Bolton,None,Alive,Not Available,Not Available,Not Available,"Sansa Stark, the red-haired wolf of Winterfell, was born into nobility but cast early into a cruel game of thrones. Sent south with dreams of courtly romance, she became a political hostage of the Lannisters, a pawn in the war that would shatter the Seven Kingdoms. Under Queen Cersei’s withering eye and Joffrey’s sadistic cruelty, her innocence was burned away.
+She bore the burden of silence, surviving with poise where others fell in fury. Her time in King’s Landing, the Vale, and Winterfell shaped her into a keen political mind, refined by Littlefinger’s manipulation and tempered by the horror of Ramsay Bolton’s cruelty.
+At war's end, she declared the North an independent realm once more, crowned as Queen in the North—a monarch forged not of steel and fire, but of ice and wisdom.",,
+CH292,Nymeria,Direwolf,House Stark,Not Available,"Ghost, Grey Wind, Lady, Shaggydog, Summer",Not Available,None,Alive,Teeth and claws,Not Available,Lannister soldiers,"Named for the warrior-queen of Rhoynar legend, Nymeria was no common beast. She was of the direwolves—ancient guardians of the North, thought long vanished until the Stark children each found one in the snow.
+Fierce and protective, she defended Arya even as a pup, biting Prince Joffrey to save her from his wrath. To protect her companion, Arya cast Nymeria into the wild, an exile that spared her from Cersei’s vengeance.
+In the wilderness, Nymeria did not die. She grew, commanding a monstrous pack that haunted the Riverlands, known in whispers and fearful tales told by broken men. When she and Arya were at last reunited, the bond remained, though the paths of wolf and woman had diverged. A creature of the free wild, Nymeria chose not to return to chains or castles.",,
+CH293,Gilly,Human,House Tarley,Not Available,Not Available,Not Available,Little Sam,Alive,Not Available,Not Available,Not Available,"Born among the cold and cruelty of Craster’s Keep, Gilly was one of many daughters born into a twisted and incestuous existence. She bore a child by Craster, and when the men of the Night’s Watch came north, she found a rare ally in the gentle heart of Samwell Tarly.
+Together they fled the darkness of the far North, braving both wights and wildlings. Gilly saw the Wall, crossed it, and in time came to dwell among the learned men of Oldtown, where she began to shed her fear and ignorance.
+Though she bore no sword and claimed no title, her survival was a quiet act of defiance. In her love for Sam and care for Little Sam, she helped preserve a fragment of hope and humanity as the world tumbled into war and winter.",,
+CH294,Hot Pie,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Alive,Not Available,Not Available,Not Available,"Once a frightened boy fleeing the City of Kings, Hot Pie was among the ragged band of orphans swept up by Lannister soldiers after the fall of Harrenhal. He traveled briefly with Arya Stark, Gendry, and others, more concerned with food than war or lineage.
+Where others saw death, he saw kitchens. Left behind at the Inn of the Crossroads, Hot Pie embraced the art of baking with a passion unmatched by blades or banners. His direwolf-shaped bread became legend among travelers, a symbol of stubborn joy amid ruin.
+Though absent from the great battles and bloody reckonings, Hot Pie endured. In a land where survival itself became a rare magic, he found peace in dough and fire.",,
+CH295,Robin Arryn,Human,House Arryn,"Lysa Tully, Jon Arryn",Not Available,Not Available,Not Available,Alive,Not Available,Not Available,Not Available,"Robin Arryn, Lord of the Eyrie, was raised amid the clouds—coddled, frail, and prone to fits. His mother, Lady Lysa, doted upon him to a suffocating degree, shaping him into a boy-king feared by no one and mocked by many.
+After her sudden death and the arrival of Petyr Baelish, Robin became a pawn in a larger game. Left under the guidance of the Vale’s great houses and tutored by Baelish, he grew slowly into a more capable, if still strange, lord.
+He reemerged during the final reckoning of Westeros, lending the Vale’s knights to the Stark cause. Though no warrior himself, Robin’s political weight as Warden of the East helped stabilize the realm in the wars' wake.",,
+CH296,Edmure Tully,Human,House Tully,Hoster Tully,"Catelyn Stark, Lysa Tully",Roslin Frey,Not Available,Alive,Not Available,Not Available,Not Available,"Edmure Tully was a lord of fair heart but faltering hand. Brave, but not bold; loyal, but not cunning. As heir to Riverrun, he stood firm against the Lannisters during the War of the Five Kings, earning victories but also making grave miscalculations.
+Most infamous was his role in the Red Wedding, where he was married to Roslin Frey as a trap to draw the Starks into Walder Frey’s ambush. He alone survived the massacre, kept as a hostage, a token of shame.
+Freed in time, he was mocked in Dragonpit council for attempting to claim kingship, yet he endured. In the end, Edmure returned to Riverrun, a relic of the old Riverlands—wounded in pride, but unbroken in spirit.",,
+CH297,Old Nan,Human,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,"Old Nan was the oldest living soul in Winterfell, her face a map of wrinkles, her voice a thread to the forgotten past. Once a wet nurse, she outlived generations of Starks and became the keeper of their hearth-side legends.
+She spoke of the Long Night, of White Walkers and giants, of the Night King and children of the forest—not with fear, but with the heavy certainty of memory. To the young Stark children, she was both a source of comfort and a conduit for ancient dread.
+When Winterfell fell to Theon and later to the Boltons, her fate was never confirmed. Yet her words endured, and as the Long Night crept once more across the North, many wondered if her tales were not stories at all—but prophecy, misremembered.",,
+CH298,Septa Unella,Human,Faith Militant,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,"Septa Unella was a devout and unforgiving servant of the Faith of the Seven, a zealot robed in plain grey and armored in iron certainty. As a septa of the Most Devout, she served the High Sparrow in the Faith Militant’s rise to power during the final days of House Baratheon’s reign.
+
+When Queen Cersei Lannister fell into the Faith’s grip, it was Unella who became her keeper and tormentor. With a bell in one hand and righteousness in the other, she marched Cersei naked through the streets of King’s Landing, chanting “Shame” with cold, ritualistic precision. She became a living symbol of the Faith’s harsh justice, her impassive gaze a blade sharper than steel.
+
+But the wheel turns swiftly in Westeros. When Cersei returned to power through wildfire and wrath, it was Unella who found herself chained. Left to the mercy of the Queen and the monstrous Ser Gregor Clegane, her screams echoed deep in the Red Keep’s dungeons—then faded into silence.
+
+Her final fate was never revealed, though some whisper she died a slow death beneath the castle, while others say she still lingers, broken and forgotten. Either way, her legacy lives on—in bell chimes and nightmares.",,
