@@ -36,7 +36,9 @@ This Tableau dashboard analyzes *Game of Thrones* deaths by character, location,
 ```bash 
 got-tableau-dashboard/
 ├── data/
-│   └── got-deaths.csv          # Core dataset of characters, deaths, houses, and methods
+│   ├── got-kills.csv          , # Core dataset of kills
+│   ├── got-characters.csv       # Core dataset of characters
+│   └── got-locations.csv        # Core dataset of locations
 ├── images/
 │   ├── characters/             # Custom portraits of victims
 │   ├── houses/                 # Family shields and banners
