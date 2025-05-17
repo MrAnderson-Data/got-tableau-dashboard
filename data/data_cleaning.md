@@ -6,8 +6,8 @@ This document outlines the key steps taken to clean, structure, and prepare the 
 
 ## 📁 Datasets Involved
 
-- `got_kills.csv` — Raw kill data including killer, victim, method, location, etc.
 - `got_characters.csv` — Character metadata including house, family, status, etc.
+- `got_kills.csv` — Raw kill data including killer, victim, method, location, etc.
 - `got_locations.csv` — Geographic and fictional context data for mapping and joins.
 
 ---
