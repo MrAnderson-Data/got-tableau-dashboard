@@ -1,7 +1,7 @@
 # 🐉 The Game of Thrones Death Ledger
 
 > **Explore the Lore.** Who killed who? Where, how, and why?  
-> A custom, interactive dashboard for fans and historians.
+> A custom, interactive dashboard for fans and freaks.
 
 ---
 
@@ -36,17 +36,29 @@ This Tableau dashboard analyzes *Game of Thrones* deaths by character, location,
 ```bash 
 got-tableau-dashboard/
 ├── data/
-│   ├── got-kills.csv          , # Core dataset of kills
-│   ├── got-characters.csv       # Core dataset of characters
-│   └── got-locations.csv        # Core dataset of locations
+│   ├── data_cleaning.md              # Documentation of the data cleaning process
+│   ├── got_characters.csv            # Character metadata
+│   ├── got_kills.csv                 # Kill records and relationships
+│   ├── got_locations.csv             # Location metadata and coordinates
+│
 ├── images/
-│   ├── characters/             # Custom portraits of victims
-│   ├── houses/                 # Family shields and banners
-│   ├── locations/              # location banners
-│   └── methods/                # Symbolic icons for methods of death
-├── tableau/
-│   └── got-dashboard.twbx      # Tableau packaged workbook
-└── README.md
+│   ├── characters/                   # Character portraits (1024x1536 PNGs)
+│   ├── house/                        # House sigils and shields (1024x1024 PNGs)
+│   ├── location/                     # Location artwork (widescreen format)
+│   ├── method/                       # Icons representing kill methods (1024x1024 PNGs)
+│
+├── sql_scripts/
+│   ├── 01_kill_count_per_character.sql   # Total kills per killer
+│   ├── 02_kills_per_location.sql         # Kills grouped by location
+│   ├── 03_method_rank.sql                # Ranked list of kill methods
+│   ├── 04_kill_path_by_character.sql     # Path of each killer across episodes
+│   ├── 05_kill_path_Arya_Stark.sql       # Arya Stark’s specific journey
+│   ├── README.md                         # Description of SQL queries
+│
+├── .gitattributes
+├── .gitkeep
+├── README.md                            # Project overview, usage, and credits
+
 ```
 
 
