@@ -1,4 +1,4 @@
-# 🧾 SQL Scripts for the Game of Thrones Dashboard
+﻿# 🧾 SQL Scripts for the Game of Thrones Dashboard
 
 This folder contains the SQL queries used to shape, clean, and extract insights from the Game of Thrones dataset powering the Tableau dashboard.
 
@@ -20,6 +20,9 @@ Each query is modular, readable, and annotated — built to support visual story
 ### `04_kill_path_by_character.sql`
 🗺️ Builds a timeline and map path of each killer’s journey across episodes. Perfect for Tableau’s path animation or character-based storytelling.
 
+### `05_kill_path_Arya_Stark`
+🗡️ Chronicles Arya Stark’s personal kill list across episodes, mapping her journey of vengeance spanning The Known World. Ideal query for tracking character arcs through kills.
+
 ---
 
 ## 🛠 How to Use
@@ -33,9 +36,9 @@ Each query is modular, readable, and annotated — built to support visual story
 ## 📊 Data Tables Used
 
 These scripts pull from the main project tables:
-- `got-characters` — character info, deaths, species, house
-- `got-kills` — all kill events with methods, locations, and timing
-- `got-locations` — coordinates and context for Westeros mapping
+- `got_characters` — character info, deaths, species, house
+- `got_kills` — all kill events with methods, locations, and timing
+- `got_locations` — coordinates and context for Westeros mapping
 
 ---
 

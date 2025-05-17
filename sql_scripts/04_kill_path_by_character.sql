@@ -6,23 +6,23 @@ SELECT
   k.Season,                            -- Season the kill occurred (for timeline or sorting)
   k.Episode,                           -- Episode of the kill
   l.Location,                          -- Kill location (for label or tooltip)
-  l."X Coordinate" AS X,               -- X coordinate for map plotting
-  l."Y Coordinate" AS Y                -- Y coordinate for map plotting
+  l."X_Coordinate" AS X,               -- X coordinate for map plotting
+  l."Y_Coordinate" AS Y                -- Y coordinate for map plotting
 
 -- Source tables:
--- "got-kills" contains the kill events
--- "got-locations" gives each location coordinates
+-- got_kills contains the kill events
+-- got_locations gives each location coordinates
 FROM 
-  "got-kills" k
+  got_kills k
 JOIN 
-  "got-locations" l
+  got_locations l
 ON 
   k.Location = l.Location              -- Join the location name to get coordinates
 
 -- Filter to ensure only valid entries (no nulls)
 WHERE 
   k."Character_Name" IS NOT NULL       -- Exclude kills with unknown killer
-  AND l."X Coordinate" IS NOT NULL     -- Exclude locations that can't be plotted
+  AND l."X_Coordinate" IS NOT NULL     -- Exclude locations that can't be plotted
 
 -- Sort kills by killer and time to ensure Tableau can draw paths in order
 ORDER BY 

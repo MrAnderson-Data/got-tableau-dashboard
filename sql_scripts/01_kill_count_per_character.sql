@@ -1,11 +1,11 @@
 -- Select the name of each character and count how many kills they committed
 SELECT 
-  Character_Name,                  -- The name of the killer (from the got-kills table)
+  Character_Name,                  -- The name of the killer (from the got_kills table)
   COUNT(*) AS KillCount            -- Total number of kills attributed to this character
 
--- Source: got-kills table, which logs all killings
+-- Source: got_kills table, which logs all killings
 FROM 
-  "got-kills"
+  got_kills
 
 -- Only include records with a known killer name
 WHERE 
