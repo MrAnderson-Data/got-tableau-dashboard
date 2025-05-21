@@ -38,9 +38,9 @@ got-tableau-dashboard/
 ├── data/
 │   ├── data_cleaning.md              # Documentation of the data cleaning process
 │   ├── got_characters.csv            # Character metadata
+│   ├── got_clean_sheet.csv           # character metadata (no kills and still alive)
 │   ├── got_kills.csv                 # Kill records and relationships
 │   ├── got_locations.csv             # Location metadata and coordinates
-│   ├── got_clean_sheet.csv           # character metadata (no kills and still alive)
 │
 ├── images/
 │   ├── characters/                   # Character portraits (1024x1536 PNGs)
