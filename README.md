@@ -17,7 +17,7 @@ What started as a simple assignment quickly spiraled into a full-blown creative 
 A visual chronicle of Westeros’ deadliest tales.  
 This Tableau dashboard analyzes *Game of Thrones* deaths by character, location, house, and method—layered with original imagery and fan-sourced data.
 
-📍 **Live Preview**: [View on Tableau Public](https://public.tableau.com/app/profile/ross.anderson3123/viz/MapOfDeath/MapofDeath3) *(Note: not final version)*
+📍 **Live Preview**: [View on Tableau Public](https://shorturl.at/DVd2U) *(Note: not final version)*
 
 ---
 
@@ -38,6 +38,7 @@ got-tableau-dashboard/
 ├── data/
 │   ├── data_cleaning.md              # Documentation of the data cleaning process
 │   ├── got_characters.csv            # Character metadata
+│   ├── got_clean_sheet.csv           # character metadata (no kills and still alive)
 │   ├── got_kills.csv                 # Kill records and relationships
 │   ├── got_locations.csv             # Location metadata and coordinates
 │
@@ -81,6 +82,19 @@ All visuals were custom-generated using AI tools like **Midjourney** and **ChatG
 
 **Ross Anderson**  
 🐦 [@RA_DataViz](https://x.com/RA_DataViz)
+
+---
+
+## 🧠 Conclusion
+
+**What I learned:**
+- Tableau isn’t built for storytelling — but with creativity, you can stretch it.
+- Built dynamic views with linked filters, image swapping, and calculated logic.
+- Struggled with things like resets, layout control, and filter formatting.
+- Learned to work around Tableau’s quirks.
+
+Far from perfect, but a huge step forward in data-management, design thinking, problem solving, and my understanding of working in Tableau, SQL, Github and various AI's.
+
 
 ---
 
