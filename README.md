@@ -49,6 +49,7 @@ got-tableau-dashboard/
 │   ├── house/                        # House sigils and shields (1024x1024 PNGs)
 │   ├── location/                     # Location artwork (widescreen format)
 │   ├── method/                       # Icons representing kill methods (1024x1024 PNGs)
+│   ├── preview.png/                  # dashboard preview screenshot
 │
 ├── sql_scripts/
 │   ├── 01_kill_count_per_character.sql   # Total kills per killer
