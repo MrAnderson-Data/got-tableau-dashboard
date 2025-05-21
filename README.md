@@ -3,7 +3,7 @@
 > **Explore the Lore.** Who killed who? Where, how, and why?  
 > A custom, interactive dashboard for fans and freaks.
 
-[![Dashboard Preview](images/preview.png)](https://public.tableau.com/app/profile/ross.anderson3123/viz/got_v3/Final_Home?publish=yes)
+[![Dashboard Preview](images/preview.png)](https://shorturl.at/DVd2U)
 
 ---
 
