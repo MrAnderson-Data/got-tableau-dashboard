@@ -3,7 +3,7 @@
 > **Explore the Lore.** Who killed who? Where, how, and why?  
 > A custom, interactive dashboard for fans and freaks.
 
-[![Dashboard Preview](images/preview.png)](https://shorturl.at/DVd2U)
+[![Dashboard Preview](images/preview.png)](https://shorturl.at/pXnf1)
 
 ---
 
@@ -19,7 +19,7 @@ What started as a simple assignment quickly spiraled into a full-blown creative 
 A visual chronicle of Westeros’ deadliest tales.  
 This Tableau dashboard analyzes *Game of Thrones* deaths by character, location, house, and method—layered with original imagery and fan-sourced data.
 
-📍 **Live Preview**: [View on Tableau Public](https://shorturl.at/DVd2U) *(Note: not final version)*
+📍 **Live Preview**: [View on Tableau Public]() *(Note: not final version)*S
 
 ---
 
