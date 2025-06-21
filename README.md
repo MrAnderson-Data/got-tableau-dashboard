@@ -19,7 +19,8 @@ What started as a simple assignment quickly spiraled into a full-blown creative 
 A visual chronicle of Westeros’ deadliest tales.  
 This Tableau dashboard analyzes *Game of Thrones* deaths by character, location, house, and method—layered with original imagery and fan-sourced data.
 
-📍 **Live Preview**: [View on Tableau Public]() *(Note: not final version)*S
+📍 **Live Preview**: [View on Tableau Public](https://shorturl.at/pXnf1) *(Note: not final version)*
+
 
 ---
 
